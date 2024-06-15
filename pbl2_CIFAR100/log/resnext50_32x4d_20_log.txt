@@ -1,0 +1,77 @@
+C:\Users\USER\anaconda3\envs\Pytorch\python.exe C:\Users\USER\PycharmProjects\pythonProject\CIFAR_100\Resnext151.py 
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 1, Loss: 1.4141297139170226
+Duration 1530.23s
+Accuracy of the model on the 10000 test images: 72.07%
+Model saved to ResNext50_best_model.pth with accuracy: 72.07%
+Epoch 2, Loss: 0.7509974673809603
+Duration 1437.85s
+Accuracy of the model on the 10000 test images: 76.18%
+Model saved to ResNext50_best_model.pth with accuracy: 76.18%
+Epoch 3, Loss: 0.5724411858888843
+Duration 1437.91s
+Accuracy of the model on the 10000 test images: 77.1%
+Model saved to ResNext50_best_model.pth with accuracy: 77.1%
+Epoch 4, Loss: 0.45017541300915087
+Duration 1437.87s
+Accuracy of the model on the 10000 test images: 78.04%
+Model saved to ResNext50_best_model.pth with accuracy: 78.04%
+Epoch 5, Loss: 0.3675356666698023
+Duration 1437.91s
+Accuracy of the model on the 10000 test images: 78.22%
+Model saved to ResNext50_best_model.pth with accuracy: 78.22%
+Epoch 6, Loss: 0.3145174648984314
+Duration 1438.39s
+Accuracy of the model on the 10000 test images: 78.44%
+Model saved to ResNext50_best_model.pth with accuracy: 78.44%
+Epoch 7, Loss: 0.26182696577209186
+Duration 1438.50s
+Accuracy of the model on the 10000 test images: 78.83%
+Model saved to ResNext50_best_model.pth with accuracy: 78.83%
+Epoch 8, Loss: 0.23200179690309344
+Duration 1438.28s
+Accuracy of the model on the 10000 test images: 78.9%
+Model saved to ResNext50_best_model.pth with accuracy: 78.9%
+Epoch 9, Loss: 0.19753160078049925
+Duration 1438.54s
+Accuracy of the model on the 10000 test images: 79.45%
+Model saved to ResNext50_best_model.pth with accuracy: 79.45%
+Epoch 10, Loss: 0.1753833888651198
+Duration 1438.39s
+Accuracy of the model on the 10000 test images: 78.37%
+Epoch 11, Loss: 0.16386295125469605
+Duration 1439.13s
+Accuracy of the model on the 10000 test images: 79.29%
+Epoch 12, Loss: 0.14790696805447837
+Duration 1438.54s
+Accuracy of the model on the 10000 test images: 79.42%
+Epoch 13, Loss: 0.12917620688200454
+Duration 1438.50s
+Accuracy of the model on the 10000 test images: 78.64%
+Epoch 14, Loss: 0.1255461564108901
+Duration 1438.34s
+Accuracy of the model on the 10000 test images: 79.49%
+Model saved to ResNext50_best_model.pth with accuracy: 79.49%
+Epoch 15, Loss: 0.1159937326389048
+Duration 1438.53s
+Accuracy of the model on the 10000 test images: 79.99%
+Model saved to ResNext50_best_model.pth with accuracy: 79.99%
+Epoch 16, Loss: 0.10280070402195006
+Duration 1438.56s
+Accuracy of the model on the 10000 test images: 79.49%
+Epoch 17, Loss: 0.09900264548378356
+Duration 1438.67s
+Accuracy of the model on the 10000 test images: 79.7%
+Epoch 18, Loss: 0.09670314550592714
+Duration 1438.76s
+Accuracy of the model on the 10000 test images: 79.02%
+Epoch 19, Loss: 0.08549614863284409
+Duration 1438.43s
+Accuracy of the model on the 10000 test images: 79.71%
+Epoch 20, Loss: 0.08606156199703664
+Duration 1438.62s
+Accuracy of the model on the 10000 test images: 79.36%
+Total Duration 29302.19s
+
+Process finished with exit code 0

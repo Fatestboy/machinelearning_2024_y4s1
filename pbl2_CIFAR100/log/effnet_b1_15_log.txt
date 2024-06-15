@@ -1,0 +1,56 @@
+C:\Users\USER\anaconda3\envs\Pytorch\python.exe C:\Users\USER\PycharmProjects\pythonProject\CIFAR_100\effnet_CIFAR100_Nosklearn.py 
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 1/15, Loss: 1.1606012003882158, Duration: 380.77s
+Current Accuracy: 79.92%
+New best model with accuracy 79.92% (previous best was 0.0%)
+Epoch 1 Best Accuracy: 79.92%
+Epoch 2/15, Loss: 0.6988212849249316, Duration: 368.13s
+Current Accuracy: 79.53%
+Epoch 2 Best Accuracy: 79.92%
+Epoch 3/15, Loss: 0.43279755900583, Duration: 349.11s
+Current Accuracy: 78.01%
+Epoch 3 Best Accuracy: 79.92%
+Epoch 4/15, Loss: 0.3348313901582947, Duration: 339.31s
+Current Accuracy: 79.59%
+Epoch 4 Best Accuracy: 79.92%
+Epoch 5/15, Loss: 0.27444180123069706, Duration: 339.28s
+Current Accuracy: 80.94%
+New best model with accuracy 80.94% (previous best was 79.92%)
+Epoch 5 Best Accuracy: 80.94%
+Epoch 6/15, Loss: 0.24015630490106085, Duration: 339.03s
+Current Accuracy: 81.04%
+New best model with accuracy 81.04% (previous best was 80.94%)
+Epoch 6 Best Accuracy: 81.04%
+Epoch 7/15, Loss: 0.21070766093357063, Duration: 339.40s
+Current Accuracy: 79.21%
+Epoch 7 Best Accuracy: 81.04%
+Epoch 8/15, Loss: 0.1906362332801437, Duration: 340.09s
+Current Accuracy: 80.65%
+Epoch 8 Best Accuracy: 81.04%
+Epoch 9/15, Loss: 0.16686386229408443, Duration: 339.27s
+Current Accuracy: 79.85%
+Epoch 9 Best Accuracy: 81.04%
+Epoch 10/15, Loss: 0.15692192941661115, Duration: 339.35s
+Current Accuracy: 79.51%
+Epoch 10 Best Accuracy: 81.04%
+Epoch 11/15, Loss: 0.1495581014543924, Duration: 339.25s
+Current Accuracy: 78.92%
+Epoch 11 Best Accuracy: 81.04%
+Epoch 12/15, Loss: 0.13821959830439456, Duration: 339.31s
+Current Accuracy: 80.0%
+Epoch 12 Best Accuracy: 81.04%
+Epoch 13/15, Loss: 0.13197274763098993, Duration: 339.49s
+Current Accuracy: 78.88%
+Epoch 13 Best Accuracy: 81.04%
+Epoch 14/15, Loss: 0.14387353539438275, Duration: 339.91s
+Current Accuracy: 80.66%
+Epoch 14 Best Accuracy: 81.04%
+Epoch 15/15, Loss: 0.1294206592952237, Duration: 339.63s
+Current Accuracy: 80.02%
+Epoch 15 Best Accuracy: 81.04%
+Total training time: 5385.92s
+Current Accuracy: 81.04%
+New best model with accuracy 81.04% (previous best was 0%)
+
+Process finished with exit code 0

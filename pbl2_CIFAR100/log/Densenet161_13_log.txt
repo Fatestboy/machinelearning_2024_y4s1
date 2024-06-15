@@ -1,0 +1,51 @@
+C:\Users\USER\anaconda3\envs\Pytorch\python.exe C:\Users\USER\PycharmProjects\pythonProject\CIFAR_100\Densenet_CIFAR100.py 
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 1, Loss: 2.0514458064990277
+Duration 4549.17s
+Accuracy of the model on the 10000 test images: 56.38%
+Model saved to Densenet161_best_model.pth with accuracy: 56.38%
+Epoch 2, Loss: 1.2396335318265364
+Duration 4492.19s
+Accuracy of the model on the 10000 test images: 64.05%
+Model saved to Densenet161_best_model.pth with accuracy: 64.05%
+Epoch 3, Loss: 0.9757495322038451
+Duration 4492.99s
+Accuracy of the model on the 10000 test images: 69.19%
+Model saved to Densenet161_best_model.pth with accuracy: 69.19%
+Epoch 4, Loss: 0.8018609677129389
+Duration 4493.41s
+Accuracy of the model on the 10000 test images: 70.71%
+Model saved to Densenet161_best_model.pth with accuracy: 70.71%
+Epoch 5, Loss: 0.664353612629349
+Duration 4493.29s
+Accuracy of the model on the 10000 test images: 73.24%
+Model saved to Densenet161_best_model.pth with accuracy: 73.24%
+Epoch 6, Loss: 0.5517781738887357
+Duration 4493.32s
+Accuracy of the model on the 10000 test images: 73.76%
+Model saved to Densenet161_best_model.pth with accuracy: 73.76%
+Epoch 7, Loss: 0.47299215450997245
+Duration 4493.97s
+Accuracy of the model on the 10000 test images: 74.1%
+Model saved to Densenet161_best_model.pth with accuracy: 74.1%
+Epoch 8, Loss: 0.38839218936041187
+Duration 4666.85s
+Accuracy of the model on the 10000 test images: 75.08%
+Model saved to Densenet161_best_model.pth with accuracy: 75.08%
+Epoch 9, Loss: 0.3308421094018175
+Duration 4578.55s
+Accuracy of the model on the 10000 test images: 74.41%
+Epoch 10, Loss: 0.28477436847165416
+Duration 4579.62s
+Accuracy of the model on the 10000 test images: 75.81%
+Model saved to Densenet161_best_model.pth with accuracy: 75.81%
+Epoch 11, Loss: 0.23097521533994267
+Duration 4692.07s
+Accuracy of the model on the 10000 test images: 75.01%
+Epoch 12, Loss: 0.21939417803207475
+Duration 4610.32s
+Accuracy of the model on the 10000 test images: 75.5%
+Epoch 13, Loss: 0.19299305008386103
+Duration 5224.60s
+Accuracy of the model on the 10000 test images: 75.66%

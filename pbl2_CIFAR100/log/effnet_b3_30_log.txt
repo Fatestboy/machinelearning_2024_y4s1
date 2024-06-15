@@ -1,0 +1,109 @@
+C:\Users\USER\anaconda3\envs\Pytorch\python.exe C:\Users\USER\PycharmProjects\pythonProject\CIFAR_100\effnet_CIFAR100_Nosklearn.py 
+Files already downloaded and verified
+Files already downloaded and verified
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\huggingface_hub\file_download.py:148: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\USER\.cache\huggingface\hub\models--timm--efficientnet_b3.ra2_in1k. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to see activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Epoch 1/30, Loss: 1.4983838937624032, Duration: 1433.68s
+Current Accuracy: 82.67%
+New best model with accuracy 82.67% (previous best was 0.0%)
+Epoch 1 Best Accuracy: 82.67%
+Epoch 2/30, Loss: 0.48217772831544853, Duration: 1342.93s
+Current Accuracy: 83.82%
+New best model with accuracy 83.82% (previous best was 82.67%)
+Epoch 2 Best Accuracy: 83.82%
+Epoch 3/30, Loss: 0.2595436290725875, Duration: 1419.72s
+Current Accuracy: 84.59%
+New best model with accuracy 84.59% (previous best was 83.82%)
+Epoch 3 Best Accuracy: 84.59%
+Epoch 4/30, Loss: 0.15787766732113517, Duration: 1417.41s
+Current Accuracy: 85.05%
+New best model with accuracy 85.05% (previous best was 84.59%)
+Epoch 4 Best Accuracy: 85.05%
+Epoch 5/30, Loss: 0.11300459886303224, Duration: 1408.38s
+Current Accuracy: 85.48%
+New best model with accuracy 85.48% (previous best was 85.05%)
+Epoch 5 Best Accuracy: 85.48%
+Epoch 6/30, Loss: 0.08235278727291413, Duration: 1407.52s
+Current Accuracy: 85.03%
+Epoch 6 Best Accuracy: 85.48%
+Epoch 7/30, Loss: 0.06864038556921379, Duration: 1407.54s
+Current Accuracy: 84.9%
+Epoch 7 Best Accuracy: 85.48%
+Epoch 8/30, Loss: 0.06455433367253721, Duration: 1407.78s
+Current Accuracy: 84.51%
+Epoch 8 Best Accuracy: 85.48%
+Epoch 9/30, Loss: 0.05006519114078187, Duration: 1406.66s
+Current Accuracy: 84.81%
+Epoch 9 Best Accuracy: 85.48%
+Epoch 10/30, Loss: 0.04674294791520809, Duration: 1406.86s
+Current Accuracy: 84.63%
+Epoch 10 Best Accuracy: 85.48%
+Epoch 11/30, Loss: 0.04992397638353998, Duration: 1407.18s
+Current Accuracy: 85.38%
+Epoch 11 Best Accuracy: 85.48%
+Epoch 12/30, Loss: 0.04331430304195414, Duration: 1407.20s
+Current Accuracy: 85.15%
+Epoch 12 Best Accuracy: 85.48%
+Epoch 13/30, Loss: 0.036688478239585674, Duration: 1407.12s
+Current Accuracy: 84.85%
+Epoch 13 Best Accuracy: 85.48%
+Epoch 14/30, Loss: 0.03201387905093837, Duration: 1407.31s
+Current Accuracy: 85.54%
+New best model with accuracy 85.54% (previous best was 85.48%)
+Epoch 14 Best Accuracy: 85.54%
+Epoch 15/30, Loss: 0.0389372914930677, Duration: 1407.38s
+Current Accuracy: 84.71%
+Epoch 15 Best Accuracy: 85.54%
+Epoch 16/30, Loss: 0.03213903253235261, Duration: 1407.15s
+Current Accuracy: 85.5%
+Epoch 16 Best Accuracy: 85.54%
+Epoch 17/30, Loss: 0.03390480919108104, Duration: 1407.31s
+Current Accuracy: 85.14%
+Epoch 17 Best Accuracy: 85.54%
+Epoch 18/30, Loss: 0.03054331637398802, Duration: 1407.19s
+Current Accuracy: 85.48%
+Epoch 18 Best Accuracy: 85.54%
+Epoch 19/30, Loss: 0.02684984897071903, Duration: 1407.14s
+Current Accuracy: 85.6%
+New best model with accuracy 85.6% (previous best was 85.54%)
+Epoch 19 Best Accuracy: 85.6%
+Epoch 20/30, Loss: 0.03519695497733434, Duration: 1406.99s
+Current Accuracy: 86.16%
+New best model with accuracy 86.16% (previous best was 85.6%)
+Epoch 20 Best Accuracy: 86.16%
+Epoch 21/30, Loss: 0.027638007412095766, Duration: 1531.78s
+Current Accuracy: 85.67%
+Epoch 21 Best Accuracy: 86.16%
+Epoch 22/30, Loss: 0.024379972545874436, Duration: 1565.57s
+Current Accuracy: 85.4%
+Epoch 22 Best Accuracy: 86.16%
+Epoch 23/30, Loss: 0.02755260949394942, Duration: 1438.88s
+Current Accuracy: 84.94%
+Epoch 23 Best Accuracy: 86.16%
+Epoch 24/30, Loss: 0.02401471710019156, Duration: 1438.59s
+Current Accuracy: 84.92%
+Epoch 24 Best Accuracy: 86.16%
+Epoch 25/30, Loss: 0.027418987122517675, Duration: 1438.62s
+Current Accuracy: 85.0%
+Epoch 25 Best Accuracy: 86.16%
+Epoch 26/30, Loss: 0.023045386158014308, Duration: 1438.78s
+Current Accuracy: 84.71%
+Epoch 26 Best Accuracy: 86.16%
+Epoch 27/30, Loss: 0.022180839899022704, Duration: 1438.61s
+Current Accuracy: 84.92%
+Epoch 27 Best Accuracy: 86.16%
+Epoch 28/30, Loss: 0.025596080675555626, Duration: 1438.66s
+Current Accuracy: 84.21%
+Epoch 28 Best Accuracy: 86.16%
+Epoch 29/30, Loss: 0.022013218004537552, Duration: 1438.71s
+Current Accuracy: 85.8%
+Epoch 29 Best Accuracy: 86.16%
+Epoch 30/30, Loss: 0.016691312114337442, Duration: 1438.63s
+Current Accuracy: 85.53%
+Epoch 30 Best Accuracy: 86.16%
+Total training time: 44572.66s
+Current Accuracy: 86.16%
+New best model with accuracy 86.16% (previous best was 0%)
+
+Process finished with exit code 0

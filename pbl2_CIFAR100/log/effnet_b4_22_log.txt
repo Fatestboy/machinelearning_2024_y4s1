@@ -1,0 +1,83 @@
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\CIFAR_100>python effnet_CIFAR100.py
+Files already downloaded and verified
+Files already downloaded and verified
+model.safetensors: 100%|██████████████████████████████████████████████████████████| 77.9M/77.9M [00:04<00:00, 15.9MB/s]
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\huggingface_hub\file_download.py:148: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\USER\.cache\huggingface\hub\models--timm--efficientnet_b4.ra2_in1k. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to see activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+Epoch 1/30, Loss: 2.1330361013369794, Duration: 3072.56s
+Current Accuracy: 76.78%
+New best model with accuracy 76.78% (previous best was 0.0%)
+Epoch 1 Best Accuracy: 76.78%
+Epoch 2/30, Loss: 0.5627047649353666, Duration: 2670.34s
+Current Accuracy: 83.04%
+New best model with accuracy 83.04% (previous best was 76.78%)
+Epoch 2 Best Accuracy: 83.04%
+Epoch 3/30, Loss: 0.3337913052562405, Duration: 2670.13s
+Current Accuracy: 84.73%
+New best model with accuracy 84.73% (previous best was 83.04%)
+Epoch 3 Best Accuracy: 84.73%
+Epoch 4/30, Loss: 0.21064452511613327, Duration: 2670.07s
+Current Accuracy: 84.95%
+New best model with accuracy 84.95% (previous best was 84.73%)
+Epoch 4 Best Accuracy: 84.95%
+Epoch 5/30, Loss: 0.12995867587178184, Duration: 2669.83s
+Current Accuracy: 85.0%
+New best model with accuracy 85.0% (previous best was 84.95%)
+Epoch 5 Best Accuracy: 85.0%
+Epoch 6/30, Loss: 0.0842701430442026, Duration: 2670.51s
+Current Accuracy: 85.17%
+New best model with accuracy 85.17% (previous best was 85.0%)
+Epoch 6 Best Accuracy: 85.17%
+Epoch 7/30, Loss: 0.05476261644809962, Duration: 2670.01s
+Current Accuracy: 85.75%
+New best model with accuracy 85.75% (previous best was 85.17%)
+Epoch 7 Best Accuracy: 85.75%
+Epoch 8/30, Loss: 0.04375309054829094, Duration: 2669.95s
+Current Accuracy: 85.31%
+Epoch 8 Best Accuracy: 85.75%
+Epoch 9/30, Loss: 0.03378171755162918, Duration: 2804.30s
+Current Accuracy: 85.28%
+Epoch 9 Best Accuracy: 85.75%
+Epoch 10/30, Loss: 0.031556370836855904, Duration: 2900.07s
+Current Accuracy: 85.49%
+Epoch 10 Best Accuracy: 85.75%
+Epoch 11/30, Loss: 0.027174364731056364, Duration: 2671.59s
+Current Accuracy: 85.61%
+Epoch 11 Best Accuracy: 85.75%
+Epoch 12/30, Loss: 0.0278316090117766, Duration: 2670.99s
+Current Accuracy: 85.54%
+Epoch 12 Best Accuracy: 85.75%
+Epoch 13/30, Loss: 0.01920573562884595, Duration: 2670.87s
+Current Accuracy: 85.92%
+New best model with accuracy 85.92% (previous best was 85.75%)
+Epoch 13 Best Accuracy: 85.92%
+Epoch 14/30, Loss: 0.021256992861259635, Duration: 2671.94s
+Current Accuracy: 85.19%
+Epoch 14 Best Accuracy: 85.92%
+Epoch 15/30, Loss: 0.02220827511441328, Duration: 2670.76s
+Current Accuracy: 85.88%
+Epoch 15 Best Accuracy: 85.92%
+Epoch 16/30, Loss: 0.015960628222360017, Duration: 2678.21s
+Current Accuracy: 86.12%
+New best model with accuracy 86.12% (previous best was 85.92%)
+Epoch 16 Best Accuracy: 86.12%
+Epoch 17/30, Loss: 0.019018576713855755, Duration: 2671.05s
+Current Accuracy: 85.18%
+Epoch 17 Best Accuracy: 86.12%
+Epoch 18/30, Loss: 0.015243679623911812, Duration: 2671.80s
+Current Accuracy: 85.62%
+Epoch 18 Best Accuracy: 86.12%
+Epoch 19/30, Loss: 0.014803876098611004, Duration: 2670.84s
+Current Accuracy: 85.75%
+Epoch 19 Best Accuracy: 86.12%
+Epoch 20/30, Loss: 0.014825341887442339, Duration: 2671.40s
+Current Accuracy: 85.58%
+Epoch 20 Best Accuracy: 86.12%
+Epoch 21/30, Loss: 0.013297191533768658, Duration: 2975.22s
+Current Accuracy: 86.37%
+New best model with accuracy 86.37% (previous best was 86.12%)
+Epoch 21 Best Accuracy: 86.37%
+Epoch 22/30, Loss: 0.016467526708079754, Duration: 3048.08s
+Current Accuracy: 85.73%
+Epoch 22 Best Accuracy: 86.37%
