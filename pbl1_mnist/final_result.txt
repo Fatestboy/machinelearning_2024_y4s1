@@ -1,0 +1,1562 @@
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>final_inference.bat
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --epochs 100 --learning-rate 0.001 --train-or-eval train --save 6_7_1_1
+cur train level:  2  cur train epoch: 0
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+Epoch: 1/100 | LR: 0.0010 | Train Loss: 128.420 | Train Acc: 92.10 | Test Loss: 1.730 | Test Acc: 96.00 (96.00)
+Spent time per epoch : 5.8188sec
+cur train level:  2  cur train epoch: 1
+Epoch: 2/100 | LR: 0.0010 | Train Loss: 69.223 | Train Acc: 95.72 | Test Loss: 1.457 | Test Acc: 96.57 (96.57)
+Spent time per epoch : 5.7236sec
+cur train level:  2  cur train epoch: 2
+Epoch: 3/100 | LR: 0.0010 | Train Loss: 50.913 | Train Acc: 96.81 | Test Loss: 1.424 | Test Acc: 96.74 (96.74)
+Spent time per epoch : 6.5549sec
+cur train level:  2  cur train epoch: 3
+Epoch: 4/100 | LR: 0.0010 | Train Loss: 41.812 | Train Acc: 97.38 | Test Loss: 1.411 | Test Acc: 96.71 (96.74)
+Spent time per epoch : 6.1903sec
+cur train level:  2  cur train epoch: 4
+Epoch: 5/100 | LR: 0.0010 | Train Loss: 34.446 | Train Acc: 97.80 | Test Loss: 1.100 | Test Acc: 97.32 (97.32)
+Spent time per epoch : 5.7269sec
+cur train level:  2  cur train epoch: 5
+Epoch: 6/100 | LR: 0.0010 | Train Loss: 31.113 | Train Acc: 97.99 | Test Loss: 0.927 | Test Acc: 97.73 (97.73)
+Spent time per epoch : 6.4802sec
+cur train level:  2  cur train epoch: 6
+Epoch: 7/100 | LR: 0.0010 | Train Loss: 27.426 | Train Acc: 98.24 | Test Loss: 0.981 | Test Acc: 97.67 (97.73)
+Spent time per epoch : 5.9636sec
+cur train level:  2  cur train epoch: 7
+Epoch: 8/100 | LR: 0.0010 | Train Loss: 24.007 | Train Acc: 98.40 | Test Loss: 1.348 | Test Acc: 96.90 (97.73)
+Spent time per epoch : 5.7868sec
+cur train level:  2  cur train epoch: 8
+Epoch: 9/100 | LR: 0.0010 | Train Loss: 21.468 | Train Acc: 98.62 | Test Loss: 0.988 | Test Acc: 97.86 (97.86)
+Spent time per epoch : 6.0007sec
+cur train level:  2  cur train epoch: 9
+Epoch: 10/100 | LR: 0.0010 | Train Loss: 20.269 | Train Acc: 98.66 | Test Loss: 1.125 | Test Acc: 97.37 (97.86)
+Spent time per epoch : 6.0931sec
+cur train level:  2  cur train epoch: 10
+Epoch: 11/100 | LR: 0.0010 | Train Loss: 16.458 | Train Acc: 98.93 | Test Loss: 1.114 | Test Acc: 97.69 (97.86)
+Spent time per epoch : 6.3983sec
+cur train level:  2  cur train epoch: 11
+Epoch: 12/100 | LR: 0.0010 | Train Loss: 17.388 | Train Acc: 98.90 | Test Loss: 1.173 | Test Acc: 97.44 (97.86)
+Spent time per epoch : 6.2860sec
+cur train level:  2  cur train epoch: 12
+Epoch: 13/100 | LR: 0.0010 | Train Loss: 17.081 | Train Acc: 98.86 | Test Loss: 1.046 | Test Acc: 97.77 (97.86)
+Spent time per epoch : 6.2870sec
+cur train level:  2  cur train epoch: 13
+Epoch: 14/100 | LR: 0.0010 | Train Loss: 14.296 | Train Acc: 99.11 | Test Loss: 1.071 | Test Acc: 97.78 (97.86)
+Spent time per epoch : 6.3298sec
+cur train level:  2  cur train epoch: 14
+Epoch: 15/100 | LR: 0.0010 | Train Loss: 12.739 | Train Acc: 99.14 | Test Loss: 1.307 | Test Acc: 97.33 (97.86)
+Spent time per epoch : 6.0508sec
+cur train level:  2  cur train epoch: 15
+Epoch: 16/100 | LR: 0.0010 | Train Loss: 12.319 | Train Acc: 99.19 | Test Loss: 1.262 | Test Acc: 97.58 (97.86)
+Spent time per epoch : 6.1026sec
+cur train level:  2  cur train epoch: 16
+Epoch: 17/100 | LR: 0.0010 | Train Loss: 12.242 | Train Acc: 99.21 | Test Loss: 0.973 | Test Acc: 98.08 (98.08)
+Spent time per epoch : 5.9222sec
+cur train level:  2  cur train epoch: 17
+Epoch: 18/100 | LR: 0.0010 | Train Loss: 10.544 | Train Acc: 99.32 | Test Loss: 1.098 | Test Acc: 98.04 (98.08)
+Spent time per epoch : 5.8235sec
+cur train level:  2  cur train epoch: 18
+Epoch: 19/100 | LR: 0.0010 | Train Loss: 11.033 | Train Acc: 99.28 | Test Loss: 1.045 | Test Acc: 97.88 (98.08)
+Spent time per epoch : 6.3797sec
+cur train level:  2  cur train epoch: 19
+Epoch: 20/100 | LR: 0.0010 | Train Loss: 8.978 | Train Acc: 99.39 | Test Loss: 0.988 | Test Acc: 97.97 (98.08)
+Spent time per epoch : 6.4763sec
+cur train level:  2  cur train epoch: 20
+Epoch: 21/100 | LR: 0.0010 | Train Loss: 10.658 | Train Acc: 99.34 | Test Loss: 1.168 | Test Acc: 97.87 (98.08)
+Spent time per epoch : 6.2223sec
+cur train level:  2  cur train epoch: 21
+Epoch: 22/100 | LR: 0.0010 | Train Loss: 9.316 | Train Acc: 99.39 | Test Loss: 1.163 | Test Acc: 97.91 (98.08)
+Spent time per epoch : 5.8255sec
+cur train level:  2  cur train epoch: 22
+Epoch: 23/100 | LR: 0.0010 | Train Loss: 8.011 | Train Acc: 99.45 | Test Loss: 0.938 | Test Acc: 98.22 (98.22)
+Spent time per epoch : 6.2621sec
+cur train level:  2  cur train epoch: 23
+Epoch: 24/100 | LR: 0.0010 | Train Loss: 8.913 | Train Acc: 99.41 | Test Loss: 1.000 | Test Acc: 98.13 (98.22)
+Spent time per epoch : 5.9780sec
+cur train level:  2  cur train epoch: 24
+Epoch: 25/100 | LR: 0.0010 | Train Loss: 7.117 | Train Acc: 99.54 | Test Loss: 1.169 | Test Acc: 97.90 (98.22)
+Spent time per epoch : 5.8245sec
+cur train level:  2  cur train epoch: 25
+Epoch: 26/100 | LR: 0.0010 | Train Loss: 7.074 | Train Acc: 99.60 | Test Loss: 1.194 | Test Acc: 97.97 (98.22)
+Spent time per epoch : 6.0209sec
+cur train level:  2  cur train epoch: 26
+Epoch: 27/100 | LR: 0.0010 | Train Loss: 8.401 | Train Acc: 99.43 | Test Loss: 1.029 | Test Acc: 98.01 (98.22)
+Spent time per epoch : 6.0268sec
+cur train level:  2  cur train epoch: 27
+Epoch: 28/100 | LR: 0.0010 | Train Loss: 6.740 | Train Acc: 99.57 | Test Loss: 1.016 | Test Acc: 98.09 (98.22)
+Spent time per epoch : 6.0338sec
+cur train level:  2  cur train epoch: 28
+Epoch: 29/100 | LR: 0.0010 | Train Loss: 6.140 | Train Acc: 99.61 | Test Loss: 1.101 | Test Acc: 98.21 (98.22)
+Spent time per epoch : 6.1624sec
+cur train level:  2  cur train epoch: 29
+Epoch: 30/100 | LR: 0.0010 | Train Loss: 7.047 | Train Acc: 99.53 | Test Loss: 1.127 | Test Acc: 97.95 (98.22)
+Spent time per epoch : 6.1953sec
+cur train level:  2  cur train epoch: 30
+Epoch: 31/100 | LR: 0.0010 | Train Loss: 5.303 | Train Acc: 99.62 | Test Loss: 1.179 | Test Acc: 98.06 (98.22)
+Spent time per epoch : 6.5451sec
+cur train level:  2  cur train epoch: 31
+Epoch: 32/100 | LR: 0.0010 | Train Loss: 5.469 | Train Acc: 99.62 | Test Loss: 1.131 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 6.2232sec
+cur train level:  2  cur train epoch: 32
+Epoch: 33/100 | LR: 0.0010 | Train Loss: 4.234 | Train Acc: 99.75 | Test Loss: 1.177 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 6.5591sec
+cur train level:  2  cur train epoch: 33
+Epoch: 34/100 | LR: 0.0010 | Train Loss: 5.784 | Train Acc: 99.62 | Test Loss: 1.093 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 6.2760sec
+cur train level:  2  cur train epoch: 34
+Epoch: 35/100 | LR: 0.0010 | Train Loss: 4.415 | Train Acc: 99.70 | Test Loss: 1.312 | Test Acc: 97.66 (98.22)
+Spent time per epoch : 6.4564sec
+cur train level:  2  cur train epoch: 35
+Epoch: 36/100 | LR: 0.0010 | Train Loss: 6.679 | Train Acc: 99.58 | Test Loss: 1.130 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 6.5192sec
+cur train level:  2  cur train epoch: 36
+Epoch: 37/100 | LR: 0.0010 | Train Loss: 4.273 | Train Acc: 99.74 | Test Loss: 1.139 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 6.0448sec
+cur train level:  2  cur train epoch: 37
+Epoch: 38/100 | LR: 0.0010 | Train Loss: 5.543 | Train Acc: 99.63 | Test Loss: 1.087 | Test Acc: 98.11 (98.22)
+Spent time per epoch : 6.1863sec
+cur train level:  2  cur train epoch: 38
+Epoch: 39/100 | LR: 0.0010 | Train Loss: 3.819 | Train Acc: 99.75 | Test Loss: 1.114 | Test Acc: 98.25 (98.25)
+Spent time per epoch : 6.1036sec
+cur train level:  2  cur train epoch: 39
+Epoch: 40/100 | LR: 0.0010 | Train Loss: 5.470 | Train Acc: 99.66 | Test Loss: 1.009 | Test Acc: 98.22 (98.25)
+Spent time per epoch : 6.0757sec
+cur train level:  2  cur train epoch: 40
+Epoch: 41/100 | LR: 0.0010 | Train Loss: 5.316 | Train Acc: 99.66 | Test Loss: 1.203 | Test Acc: 98.08 (98.25)
+Spent time per epoch : 6.0926sec
+cur train level:  2  cur train epoch: 41
+Epoch: 42/100 | LR: 0.0010 | Train Loss: 3.506 | Train Acc: 99.78 | Test Loss: 1.029 | Test Acc: 98.19 (98.25)
+Spent time per epoch : 6.0219sec
+cur train level:  2  cur train epoch: 42
+Epoch: 43/100 | LR: 0.0010 | Train Loss: 4.321 | Train Acc: 99.73 | Test Loss: 1.110 | Test Acc: 98.17 (98.25)
+Spent time per epoch : 6.1146sec
+cur train level:  2  cur train epoch: 43
+Epoch: 44/100 | LR: 0.0010 | Train Loss: 4.275 | Train Acc: 99.73 | Test Loss: 1.204 | Test Acc: 98.04 (98.25)
+Spent time per epoch : 5.9850sec
+cur train level:  2  cur train epoch: 44
+Epoch: 45/100 | LR: 0.0010 | Train Loss: 4.162 | Train Acc: 99.74 | Test Loss: 1.161 | Test Acc: 98.12 (98.25)
+Spent time per epoch : 5.9332sec
+cur train level:  2  cur train epoch: 45
+Epoch: 46/100 | LR: 0.0010 | Train Loss: 3.593 | Train Acc: 99.77 | Test Loss: 1.046 | Test Acc: 98.36 (98.36)
+Spent time per epoch : 5.9850sec
+cur train level:  2  cur train epoch: 46
+Epoch: 47/100 | LR: 0.0010 | Train Loss: 3.429 | Train Acc: 99.78 | Test Loss: 1.074 | Test Acc: 98.23 (98.36)
+Spent time per epoch : 5.9267sec
+cur train level:  2  cur train epoch: 47
+Epoch: 48/100 | LR: 0.0010 | Train Loss: 3.705 | Train Acc: 99.76 | Test Loss: 1.142 | Test Acc: 98.17 (98.36)
+Spent time per epoch : 5.8379sec
+cur train level:  2  cur train epoch: 48
+Epoch: 49/100 | LR: 0.0010 | Train Loss: 3.965 | Train Acc: 99.74 | Test Loss: 0.992 | Test Acc: 98.38 (98.38)
+Spent time per epoch : 6.3398sec
+cur train level:  2  cur train epoch: 49
+Epoch: 50/100 | LR: 0.0010 | Train Loss: 3.800 | Train Acc: 99.75 | Test Loss: 1.032 | Test Acc: 98.23 (98.38)
+Spent time per epoch : 6.1793sec
+cur train level:  2  cur train epoch: 50
+Epoch: 51/100 | LR: 0.0010 | Train Loss: 3.197 | Train Acc: 99.82 | Test Loss: 1.051 | Test Acc: 98.34 (98.38)
+Spent time per epoch : 6.3269sec
+cur train level:  2  cur train epoch: 51
+Epoch: 52/100 | LR: 0.0010 | Train Loss: 2.515 | Train Acc: 99.85 | Test Loss: 1.298 | Test Acc: 97.97 (98.38)
+Spent time per epoch : 5.7328sec
+cur train level:  2  cur train epoch: 52
+Epoch: 53/100 | LR: 0.0010 | Train Loss: 3.828 | Train Acc: 99.76 | Test Loss: 1.113 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 6.2023sec
+cur train level:  2  cur train epoch: 53
+Epoch: 54/100 | LR: 0.0010 | Train Loss: 3.434 | Train Acc: 99.81 | Test Loss: 1.079 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 6.0229sec
+cur train level:  2  cur train epoch: 54
+Epoch: 55/100 | LR: 0.0010 | Train Loss: 2.754 | Train Acc: 99.83 | Test Loss: 1.064 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 5.9128sec
+cur train level:  2  cur train epoch: 55
+Epoch: 56/100 | LR: 0.0010 | Train Loss: 3.473 | Train Acc: 99.79 | Test Loss: 1.115 | Test Acc: 98.19 (98.38)
+Spent time per epoch : 6.0602sec
+cur train level:  2  cur train epoch: 56
+Epoch: 57/100 | LR: 0.0010 | Train Loss: 2.924 | Train Acc: 99.82 | Test Loss: 1.036 | Test Acc: 98.28 (98.38)
+Spent time per epoch : 6.0857sec
+cur train level:  2  cur train epoch: 57
+Epoch: 58/100 | LR: 0.0010 | Train Loss: 2.042 | Train Acc: 99.86 | Test Loss: 0.969 | Test Acc: 98.35 (98.38)
+Spent time per epoch : 6.0837sec
+cur train level:  2  cur train epoch: 58
+Epoch: 59/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.85 | Test Loss: 1.210 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 6.0039sec
+cur train level:  2  cur train epoch: 59
+Epoch: 60/100 | LR: 0.0010 | Train Loss: 3.636 | Train Acc: 99.79 | Test Loss: 1.318 | Test Acc: 98.11 (98.38)
+Spent time per epoch : 6.1574sec
+cur train level:  2  cur train epoch: 60
+Epoch: 61/100 | LR: 0.0010 | Train Loss: 3.420 | Train Acc: 99.79 | Test Loss: 1.083 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 5.8351sec
+cur train level:  2  cur train epoch: 61
+Epoch: 62/100 | LR: 0.0010 | Train Loss: 2.745 | Train Acc: 99.85 | Test Loss: 1.047 | Test Acc: 98.17 (98.38)
+Spent time per epoch : 5.8853sec
+cur train level:  2  cur train epoch: 62
+Epoch: 63/100 | LR: 0.0010 | Train Loss: 2.419 | Train Acc: 99.81 | Test Loss: 1.097 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 5.9162sec
+cur train level:  2  cur train epoch: 63
+Epoch: 64/100 | LR: 0.0010 | Train Loss: 3.234 | Train Acc: 99.80 | Test Loss: 1.152 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 5.9462sec
+cur train level:  2  cur train epoch: 64
+Epoch: 65/100 | LR: 0.0010 | Train Loss: 2.337 | Train Acc: 99.84 | Test Loss: 1.093 | Test Acc: 98.33 (98.38)
+Spent time per epoch : 6.0522sec
+cur train level:  2  cur train epoch: 65
+Epoch: 66/100 | LR: 0.0010 | Train Loss: 2.431 | Train Acc: 99.85 | Test Loss: 1.078 | Test Acc: 98.31 (98.38)
+Spent time per epoch : 6.1335sec
+cur train level:  2  cur train epoch: 66
+Epoch: 67/100 | LR: 0.0010 | Train Loss: 2.414 | Train Acc: 99.85 | Test Loss: 1.010 | Test Acc: 98.42 (98.42)
+Spent time per epoch : 6.0189sec
+cur train level:  2  cur train epoch: 67
+Epoch: 68/100 | LR: 0.0010 | Train Loss: 2.133 | Train Acc: 99.88 | Test Loss: 1.139 | Test Acc: 98.23 (98.42)
+Spent time per epoch : 6.1863sec
+cur train level:  2  cur train epoch: 68
+Epoch: 69/100 | LR: 0.0010 | Train Loss: 2.272 | Train Acc: 99.85 | Test Loss: 1.226 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 6.3438sec
+cur train level:  2  cur train epoch: 69
+Epoch: 70/100 | LR: 0.0010 | Train Loss: 2.878 | Train Acc: 99.84 | Test Loss: 1.168 | Test Acc: 98.25 (98.42)
+Spent time per epoch : 6.4009sec
+cur train level:  2  cur train epoch: 70
+Epoch: 71/100 | LR: 0.0010 | Train Loss: 1.816 | Train Acc: 99.88 | Test Loss: 1.192 | Test Acc: 98.28 (98.42)
+Spent time per epoch : 6.2770sec
+cur train level:  2  cur train epoch: 71
+Epoch: 72/100 | LR: 0.0010 | Train Loss: 2.708 | Train Acc: 99.85 | Test Loss: 1.252 | Test Acc: 98.11 (98.42)
+Spent time per epoch : 6.0906sec
+cur train level:  2  cur train epoch: 72
+Epoch: 73/100 | LR: 0.0010 | Train Loss: 1.686 | Train Acc: 99.88 | Test Loss: 1.102 | Test Acc: 98.41 (98.42)
+Spent time per epoch : 6.3159sec
+cur train level:  2  cur train epoch: 73
+Epoch: 74/100 | LR: 0.0010 | Train Loss: 2.597 | Train Acc: 99.86 | Test Loss: 1.210 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 6.0156sec
+cur train level:  2  cur train epoch: 74
+Epoch: 75/100 | LR: 0.0010 | Train Loss: 2.390 | Train Acc: 99.85 | Test Loss: 1.011 | Test Acc: 98.38 (98.42)
+Spent time per epoch : 5.9810sec
+cur train level:  2  cur train epoch: 75
+Epoch: 76/100 | LR: 0.0010 | Train Loss: 1.619 | Train Acc: 99.89 | Test Loss: 1.041 | Test Acc: 98.46 (98.46)
+Spent time per epoch : 5.9591sec
+cur train level:  2  cur train epoch: 76
+Epoch: 77/100 | LR: 0.0010 | Train Loss: 2.829 | Train Acc: 99.83 | Test Loss: 1.157 | Test Acc: 98.19 (98.46)
+Spent time per epoch : 6.0340sec
+cur train level:  2  cur train epoch: 77
+Epoch: 78/100 | LR: 0.0010 | Train Loss: 1.516 | Train Acc: 99.91 | Test Loss: 1.038 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 6.0857sec
+cur train level:  2  cur train epoch: 78
+Epoch: 79/100 | LR: 0.0010 | Train Loss: 1.530 | Train Acc: 99.92 | Test Loss: 1.028 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 6.2471sec
+cur train level:  2  cur train epoch: 79
+Epoch: 80/100 | LR: 0.0010 | Train Loss: 2.509 | Train Acc: 99.83 | Test Loss: 1.252 | Test Acc: 98.21 (98.46)
+Spent time per epoch : 6.3072sec
+cur train level:  2  cur train epoch: 80
+Epoch: 81/100 | LR: 0.0010 | Train Loss: 2.047 | Train Acc: 99.89 | Test Loss: 1.125 | Test Acc: 98.29 (98.46)
+Spent time per epoch : 6.1165sec
+cur train level:  2  cur train epoch: 81
+Epoch: 82/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.86 | Test Loss: 1.086 | Test Acc: 98.33 (98.46)
+Spent time per epoch : 6.5940sec
+cur train level:  2  cur train epoch: 82
+Epoch: 83/100 | LR: 0.0010 | Train Loss: 2.188 | Train Acc: 99.87 | Test Loss: 1.021 | Test Acc: 98.39 (98.46)
+Spent time per epoch : 6.2730sec
+cur train level:  2  cur train epoch: 83
+Epoch: 84/100 | LR: 0.0010 | Train Loss: 1.536 | Train Acc: 99.91 | Test Loss: 0.990 | Test Acc: 98.41 (98.46)
+Spent time per epoch : 6.2591sec
+cur train level:  2  cur train epoch: 84
+Epoch: 85/100 | LR: 0.0010 | Train Loss: 0.576 | Train Acc: 99.97 | Test Loss: 1.019 | Test Acc: 98.47 (98.47)
+Spent time per epoch : 6.1923sec
+cur train level:  2  cur train epoch: 85
+Epoch: 86/100 | LR: 0.0010 | Train Loss: 2.849 | Train Acc: 99.86 | Test Loss: 0.974 | Test Acc: 98.29 (98.47)
+Spent time per epoch : 5.8455sec
+cur train level:  2  cur train epoch: 86
+Epoch: 87/100 | LR: 0.0010 | Train Loss: 1.558 | Train Acc: 99.89 | Test Loss: 1.099 | Test Acc: 98.24 (98.47)
+Spent time per epoch : 5.9720sec
+cur train level:  2  cur train epoch: 87
+Epoch: 88/100 | LR: 0.0010 | Train Loss: 2.560 | Train Acc: 99.84 | Test Loss: 1.121 | Test Acc: 98.17 (98.47)
+Spent time per epoch : 6.2426sec
+cur train level:  2  cur train epoch: 88
+Epoch: 89/100 | LR: 0.0010 | Train Loss: 2.610 | Train Acc: 99.85 | Test Loss: 1.029 | Test Acc: 98.41 (98.47)
+Spent time per epoch : 6.3837sec
+cur train level:  2  cur train epoch: 89
+Epoch: 90/100 | LR: 0.0010 | Train Loss: 1.454 | Train Acc: 99.89 | Test Loss: 1.076 | Test Acc: 98.27 (98.47)
+Spent time per epoch : 6.2870sec
+cur train level:  2  cur train epoch: 90
+Epoch: 91/100 | LR: 0.0010 | Train Loss: 1.365 | Train Acc: 99.92 | Test Loss: 1.016 | Test Acc: 98.39 (98.47)
+Spent time per epoch : 6.2023sec
+cur train level:  2  cur train epoch: 91
+Epoch: 92/100 | LR: 0.0010 | Train Loss: 1.684 | Train Acc: 99.90 | Test Loss: 1.014 | Test Acc: 98.35 (98.47)
+Spent time per epoch : 6.1734sec
+cur train level:  2  cur train epoch: 92
+Epoch: 93/100 | LR: 0.0010 | Train Loss: 1.306 | Train Acc: 99.92 | Test Loss: 1.027 | Test Acc: 98.49 (98.49)
+Spent time per epoch : 6.3680sec
+cur train level:  2  cur train epoch: 93
+Epoch: 94/100 | LR: 0.0010 | Train Loss: 1.789 | Train Acc: 99.91 | Test Loss: 1.061 | Test Acc: 98.32 (98.49)
+Spent time per epoch : 6.2401sec
+cur train level:  2  cur train epoch: 94
+Epoch: 95/100 | LR: 0.0010 | Train Loss: 1.754 | Train Acc: 99.87 | Test Loss: 1.147 | Test Acc: 98.38 (98.49)
+Spent time per epoch : 6.1714sec
+cur train level:  2  cur train epoch: 95
+Epoch: 96/100 | LR: 0.0010 | Train Loss: 1.822 | Train Acc: 99.90 | Test Loss: 1.136 | Test Acc: 98.28 (98.49)
+Spent time per epoch : 6.5907sec
+cur train level:  2  cur train epoch: 96
+Epoch: 97/100 | LR: 0.0010 | Train Loss: 2.075 | Train Acc: 99.88 | Test Loss: 1.009 | Test Acc: 98.39 (98.49)
+Spent time per epoch : 6.1289sec
+cur train level:  2  cur train epoch: 97
+Epoch: 98/100 | LR: 0.0010 | Train Loss: 1.047 | Train Acc: 99.93 | Test Loss: 1.094 | Test Acc: 98.31 (98.49)
+Spent time per epoch : 6.1893sec
+cur train level:  2  cur train epoch: 98
+Epoch: 99/100 | LR: 0.0010 | Train Loss: 1.884 | Train Acc: 99.88 | Test Loss: 1.176 | Test Acc: 98.29 (98.49)
+Spent time per epoch : 6.1877sec
+cur train level:  2  cur train epoch: 99
+Epoch: 100/100 | LR: 0.0010 | Train Loss: 2.197 | Train Acc: 99.88 | Test Loss: 1.046 | Test Acc: 98.33 (98.49)
+Spent time per epoch : 6.0697sec
+---------------------------- TRAINING DONE ------------------------------
+--------------------------- best_acc = 98.49 ----------------------------
+---------------------------- Time : 613.5sec -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --epochs 100 --learning-rate 0.001 --train-or-eval train --save 6_7_1_2
+cur train level:  2  cur train epoch: 0
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+Epoch: 1/100 | LR: 0.0010 | Train Loss: 128.420 | Train Acc: 92.10 | Test Loss: 1.730 | Test Acc: 96.00 (96.00)
+Spent time per epoch : 5.6222sec
+cur train level:  2  cur train epoch: 1
+Epoch: 2/100 | LR: 0.0010 | Train Loss: 69.223 | Train Acc: 95.72 | Test Loss: 1.457 | Test Acc: 96.57 (96.57)
+Spent time per epoch : 5.8086sec
+cur train level:  2  cur train epoch: 2
+Epoch: 3/100 | LR: 0.0010 | Train Loss: 50.913 | Train Acc: 96.81 | Test Loss: 1.424 | Test Acc: 96.74 (96.74)
+Spent time per epoch : 5.7149sec
+cur train level:  2  cur train epoch: 3
+Epoch: 4/100 | LR: 0.0010 | Train Loss: 41.812 | Train Acc: 97.38 | Test Loss: 1.411 | Test Acc: 96.71 (96.74)
+Spent time per epoch : 5.8561sec
+cur train level:  2  cur train epoch: 4
+Epoch: 5/100 | LR: 0.0010 | Train Loss: 34.446 | Train Acc: 97.80 | Test Loss: 1.100 | Test Acc: 97.32 (97.32)
+Spent time per epoch : 6.1744sec
+cur train level:  2  cur train epoch: 5
+Epoch: 6/100 | LR: 0.0010 | Train Loss: 31.113 | Train Acc: 97.99 | Test Loss: 0.927 | Test Acc: 97.73 (97.73)
+Spent time per epoch : 5.9581sec
+cur train level:  2  cur train epoch: 6
+Epoch: 7/100 | LR: 0.0010 | Train Loss: 27.426 | Train Acc: 98.24 | Test Loss: 0.981 | Test Acc: 97.67 (97.73)
+Spent time per epoch : 6.1983sec
+cur train level:  2  cur train epoch: 7
+Epoch: 8/100 | LR: 0.0010 | Train Loss: 24.007 | Train Acc: 98.40 | Test Loss: 1.348 | Test Acc: 96.90 (97.73)
+Spent time per epoch : 6.0817sec
+cur train level:  2  cur train epoch: 8
+Epoch: 9/100 | LR: 0.0010 | Train Loss: 21.468 | Train Acc: 98.62 | Test Loss: 0.988 | Test Acc: 97.86 (97.86)
+Spent time per epoch : 6.4136sec
+cur train level:  2  cur train epoch: 9
+Epoch: 10/100 | LR: 0.0010 | Train Loss: 20.269 | Train Acc: 98.66 | Test Loss: 1.125 | Test Acc: 97.37 (97.86)
+Spent time per epoch : 6.0029sec
+cur train level:  2  cur train epoch: 10
+Epoch: 11/100 | LR: 0.0010 | Train Loss: 16.458 | Train Acc: 98.93 | Test Loss: 1.114 | Test Acc: 97.69 (97.86)
+Spent time per epoch : 6.5662sec
+cur train level:  2  cur train epoch: 11
+Epoch: 12/100 | LR: 0.0010 | Train Loss: 17.388 | Train Acc: 98.90 | Test Loss: 1.173 | Test Acc: 97.44 (97.86)
+Spent time per epoch : 6.0056sec
+cur train level:  2  cur train epoch: 12
+Epoch: 13/100 | LR: 0.0010 | Train Loss: 17.081 | Train Acc: 98.86 | Test Loss: 1.046 | Test Acc: 97.77 (97.86)
+Spent time per epoch : 6.2729sec
+cur train level:  2  cur train epoch: 13
+Epoch: 14/100 | LR: 0.0010 | Train Loss: 14.296 | Train Acc: 99.11 | Test Loss: 1.071 | Test Acc: 97.78 (97.86)
+Spent time per epoch : 6.3940sec
+cur train level:  2  cur train epoch: 14
+Epoch: 15/100 | LR: 0.0010 | Train Loss: 12.739 | Train Acc: 99.14 | Test Loss: 1.307 | Test Acc: 97.33 (97.86)
+Spent time per epoch : 6.4548sec
+cur train level:  2  cur train epoch: 15
+Epoch: 16/100 | LR: 0.0010 | Train Loss: 12.319 | Train Acc: 99.19 | Test Loss: 1.262 | Test Acc: 97.58 (97.86)
+Spent time per epoch : 6.4077sec
+cur train level:  2  cur train epoch: 16
+Epoch: 17/100 | LR: 0.0010 | Train Loss: 12.242 | Train Acc: 99.21 | Test Loss: 0.973 | Test Acc: 98.08 (98.08)
+Spent time per epoch : 6.2078sec
+cur train level:  2  cur train epoch: 17
+Epoch: 18/100 | LR: 0.0010 | Train Loss: 10.544 | Train Acc: 99.32 | Test Loss: 1.098 | Test Acc: 98.04 (98.08)
+Spent time per epoch : 6.1560sec
+cur train level:  2  cur train epoch: 18
+Epoch: 19/100 | LR: 0.0010 | Train Loss: 11.033 | Train Acc: 99.28 | Test Loss: 1.045 | Test Acc: 97.88 (98.08)
+Spent time per epoch : 6.6392sec
+cur train level:  2  cur train epoch: 19
+Epoch: 20/100 | LR: 0.0010 | Train Loss: 8.978 | Train Acc: 99.39 | Test Loss: 0.988 | Test Acc: 97.97 (98.08)
+Spent time per epoch : 6.5390sec
+cur train level:  2  cur train epoch: 20
+Epoch: 21/100 | LR: 0.0010 | Train Loss: 10.658 | Train Acc: 99.34 | Test Loss: 1.168 | Test Acc: 97.87 (98.08)
+Spent time per epoch : 6.7580sec
+cur train level:  2  cur train epoch: 21
+Epoch: 22/100 | LR: 0.0010 | Train Loss: 9.316 | Train Acc: 99.39 | Test Loss: 1.163 | Test Acc: 97.91 (98.08)
+Spent time per epoch : 6.4906sec
+cur train level:  2  cur train epoch: 22
+Epoch: 23/100 | LR: 0.0010 | Train Loss: 8.011 | Train Acc: 99.45 | Test Loss: 0.938 | Test Acc: 98.22 (98.22)
+Spent time per epoch : 6.8628sec
+cur train level:  2  cur train epoch: 23
+Epoch: 24/100 | LR: 0.0010 | Train Loss: 8.913 | Train Acc: 99.41 | Test Loss: 1.000 | Test Acc: 98.13 (98.22)
+Spent time per epoch : 6.4924sec
+cur train level:  2  cur train epoch: 24
+Epoch: 25/100 | LR: 0.0010 | Train Loss: 7.117 | Train Acc: 99.54 | Test Loss: 1.169 | Test Acc: 97.90 (98.22)
+Spent time per epoch : 6.7685sec
+cur train level:  2  cur train epoch: 25
+Epoch: 26/100 | LR: 0.0010 | Train Loss: 7.074 | Train Acc: 99.60 | Test Loss: 1.194 | Test Acc: 97.97 (98.22)
+Spent time per epoch : 6.7676sec
+cur train level:  2  cur train epoch: 26
+Epoch: 27/100 | LR: 0.0010 | Train Loss: 8.401 | Train Acc: 99.43 | Test Loss: 1.029 | Test Acc: 98.01 (98.22)
+Spent time per epoch : 6.0607sec
+cur train level:  2  cur train epoch: 27
+Epoch: 28/100 | LR: 0.0010 | Train Loss: 6.740 | Train Acc: 99.57 | Test Loss: 1.016 | Test Acc: 98.09 (98.22)
+Spent time per epoch : 6.7102sec
+cur train level:  2  cur train epoch: 28
+Epoch: 29/100 | LR: 0.0010 | Train Loss: 6.140 | Train Acc: 99.61 | Test Loss: 1.101 | Test Acc: 98.21 (98.22)
+Spent time per epoch : 6.3456sec
+cur train level:  2  cur train epoch: 29
+Epoch: 30/100 | LR: 0.0010 | Train Loss: 7.047 | Train Acc: 99.53 | Test Loss: 1.127 | Test Acc: 97.95 (98.22)
+Spent time per epoch : 6.1750sec
+cur train level:  2  cur train epoch: 30
+Epoch: 31/100 | LR: 0.0010 | Train Loss: 5.303 | Train Acc: 99.62 | Test Loss: 1.179 | Test Acc: 98.06 (98.22)
+Spent time per epoch : 6.3233sec
+cur train level:  2  cur train epoch: 31
+Epoch: 32/100 | LR: 0.0010 | Train Loss: 5.469 | Train Acc: 99.62 | Test Loss: 1.131 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 6.2323sec
+cur train level:  2  cur train epoch: 32
+Epoch: 33/100 | LR: 0.0010 | Train Loss: 4.234 | Train Acc: 99.75 | Test Loss: 1.177 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 6.5887sec
+cur train level:  2  cur train epoch: 33
+Epoch: 34/100 | LR: 0.0010 | Train Loss: 5.784 | Train Acc: 99.62 | Test Loss: 1.093 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 6.2954sec
+cur train level:  2  cur train epoch: 34
+Epoch: 35/100 | LR: 0.0010 | Train Loss: 4.415 | Train Acc: 99.70 | Test Loss: 1.312 | Test Acc: 97.66 (98.22)
+Spent time per epoch : 6.3679sec
+cur train level:  2  cur train epoch: 35
+Epoch: 36/100 | LR: 0.0010 | Train Loss: 6.679 | Train Acc: 99.58 | Test Loss: 1.130 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 6.4969sec
+cur train level:  2  cur train epoch: 36
+Epoch: 37/100 | LR: 0.0010 | Train Loss: 4.273 | Train Acc: 99.74 | Test Loss: 1.139 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 7.0760sec
+cur train level:  2  cur train epoch: 37
+Epoch: 38/100 | LR: 0.0010 | Train Loss: 5.543 | Train Acc: 99.63 | Test Loss: 1.087 | Test Acc: 98.11 (98.22)
+Spent time per epoch : 6.4509sec
+cur train level:  2  cur train epoch: 38
+Epoch: 39/100 | LR: 0.0010 | Train Loss: 3.819 | Train Acc: 99.75 | Test Loss: 1.114 | Test Acc: 98.25 (98.25)
+Spent time per epoch : 6.6140sec
+cur train level:  2  cur train epoch: 39
+Epoch: 40/100 | LR: 0.0010 | Train Loss: 5.470 | Train Acc: 99.66 | Test Loss: 1.009 | Test Acc: 98.22 (98.25)
+Spent time per epoch : 6.3753sec
+cur train level:  2  cur train epoch: 40
+Epoch: 41/100 | LR: 0.0010 | Train Loss: 5.316 | Train Acc: 99.66 | Test Loss: 1.203 | Test Acc: 98.08 (98.25)
+Spent time per epoch : 6.3308sec
+cur train level:  2  cur train epoch: 41
+Epoch: 42/100 | LR: 0.0010 | Train Loss: 3.506 | Train Acc: 99.78 | Test Loss: 1.029 | Test Acc: 98.19 (98.25)
+Spent time per epoch : 6.2571sec
+cur train level:  2  cur train epoch: 42
+Epoch: 43/100 | LR: 0.0010 | Train Loss: 4.321 | Train Acc: 99.73 | Test Loss: 1.110 | Test Acc: 98.17 (98.25)
+Spent time per epoch : 6.3301sec
+cur train level:  2  cur train epoch: 43
+Epoch: 44/100 | LR: 0.0010 | Train Loss: 4.275 | Train Acc: 99.73 | Test Loss: 1.204 | Test Acc: 98.04 (98.25)
+Spent time per epoch : 6.0148sec
+cur train level:  2  cur train epoch: 44
+Epoch: 45/100 | LR: 0.0010 | Train Loss: 4.162 | Train Acc: 99.74 | Test Loss: 1.161 | Test Acc: 98.12 (98.25)
+Spent time per epoch : 6.4996sec
+cur train level:  2  cur train epoch: 45
+Epoch: 46/100 | LR: 0.0010 | Train Loss: 3.593 | Train Acc: 99.77 | Test Loss: 1.046 | Test Acc: 98.36 (98.36)
+Spent time per epoch : 6.4612sec
+cur train level:  2  cur train epoch: 46
+Epoch: 47/100 | LR: 0.0010 | Train Loss: 3.429 | Train Acc: 99.78 | Test Loss: 1.074 | Test Acc: 98.23 (98.36)
+Spent time per epoch : 6.4912sec
+cur train level:  2  cur train epoch: 47
+Epoch: 48/100 | LR: 0.0010 | Train Loss: 3.705 | Train Acc: 99.76 | Test Loss: 1.142 | Test Acc: 98.17 (98.36)
+Spent time per epoch : 6.3599sec
+cur train level:  2  cur train epoch: 48
+Epoch: 49/100 | LR: 0.0010 | Train Loss: 3.965 | Train Acc: 99.74 | Test Loss: 0.992 | Test Acc: 98.38 (98.38)
+Spent time per epoch : 6.4613sec
+cur train level:  2  cur train epoch: 49
+Epoch: 50/100 | LR: 0.0010 | Train Loss: 3.800 | Train Acc: 99.75 | Test Loss: 1.032 | Test Acc: 98.23 (98.38)
+Spent time per epoch : 6.6778sec
+cur train level:  2  cur train epoch: 50
+Epoch: 51/100 | LR: 0.0010 | Train Loss: 3.197 | Train Acc: 99.82 | Test Loss: 1.051 | Test Acc: 98.34 (98.38)
+Spent time per epoch : 7.2788sec
+cur train level:  2  cur train epoch: 51
+Epoch: 52/100 | LR: 0.0010 | Train Loss: 2.515 | Train Acc: 99.85 | Test Loss: 1.298 | Test Acc: 97.97 (98.38)
+Spent time per epoch : 7.7784sec
+cur train level:  2  cur train epoch: 52
+Epoch: 53/100 | LR: 0.0010 | Train Loss: 3.828 | Train Acc: 99.76 | Test Loss: 1.113 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 6.8764sec
+cur train level:  2  cur train epoch: 53
+Epoch: 54/100 | LR: 0.0010 | Train Loss: 3.434 | Train Acc: 99.81 | Test Loss: 1.079 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 6.8975sec
+cur train level:  2  cur train epoch: 54
+Epoch: 55/100 | LR: 0.0010 | Train Loss: 2.754 | Train Acc: 99.83 | Test Loss: 1.064 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 7.0332sec
+cur train level:  2  cur train epoch: 55
+Epoch: 56/100 | LR: 0.0010 | Train Loss: 3.473 | Train Acc: 99.79 | Test Loss: 1.115 | Test Acc: 98.19 (98.38)
+Spent time per epoch : 7.0359sec
+cur train level:  2  cur train epoch: 56
+Epoch: 57/100 | LR: 0.0010 | Train Loss: 2.924 | Train Acc: 99.82 | Test Loss: 1.036 | Test Acc: 98.28 (98.38)
+Spent time per epoch : 6.7110sec
+cur train level:  2  cur train epoch: 57
+Epoch: 58/100 | LR: 0.0010 | Train Loss: 2.042 | Train Acc: 99.86 | Test Loss: 0.969 | Test Acc: 98.35 (98.38)
+Spent time per epoch : 7.2507sec
+cur train level:  2  cur train epoch: 58
+Epoch: 59/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.85 | Test Loss: 1.210 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 7.5765sec
+cur train level:  2  cur train epoch: 59
+Epoch: 60/100 | LR: 0.0010 | Train Loss: 3.636 | Train Acc: 99.79 | Test Loss: 1.318 | Test Acc: 98.11 (98.38)
+Spent time per epoch : 7.9443sec
+cur train level:  2  cur train epoch: 60
+Epoch: 61/100 | LR: 0.0010 | Train Loss: 3.420 | Train Acc: 99.79 | Test Loss: 1.083 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 7.4717sec
+cur train level:  2  cur train epoch: 61
+Epoch: 62/100 | LR: 0.0010 | Train Loss: 2.745 | Train Acc: 99.85 | Test Loss: 1.047 | Test Acc: 98.17 (98.38)
+Spent time per epoch : 7.6831sec
+cur train level:  2  cur train epoch: 62
+Epoch: 63/100 | LR: 0.0010 | Train Loss: 2.419 | Train Acc: 99.81 | Test Loss: 1.097 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 7.5320sec
+cur train level:  2  cur train epoch: 63
+Epoch: 64/100 | LR: 0.0010 | Train Loss: 3.234 | Train Acc: 99.80 | Test Loss: 1.152 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 7.3370sec
+cur train level:  2  cur train epoch: 64
+Epoch: 65/100 | LR: 0.0010 | Train Loss: 2.337 | Train Acc: 99.84 | Test Loss: 1.093 | Test Acc: 98.33 (98.38)
+Spent time per epoch : 7.2981sec
+cur train level:  2  cur train epoch: 65
+Epoch: 66/100 | LR: 0.0010 | Train Loss: 2.431 | Train Acc: 99.85 | Test Loss: 1.078 | Test Acc: 98.31 (98.38)
+Spent time per epoch : 6.9969sec
+cur train level:  2  cur train epoch: 66
+Epoch: 67/100 | LR: 0.0010 | Train Loss: 2.414 | Train Acc: 99.85 | Test Loss: 1.010 | Test Acc: 98.42 (98.42)
+Spent time per epoch : 7.5096sec
+cur train level:  2  cur train epoch: 67
+Epoch: 68/100 | LR: 0.0010 | Train Loss: 2.133 | Train Acc: 99.88 | Test Loss: 1.139 | Test Acc: 98.23 (98.42)
+Spent time per epoch : 7.4444sec
+cur train level:  2  cur train epoch: 68
+Epoch: 69/100 | LR: 0.0010 | Train Loss: 2.272 | Train Acc: 99.85 | Test Loss: 1.226 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 7.3297sec
+cur train level:  2  cur train epoch: 69
+Epoch: 70/100 | LR: 0.0010 | Train Loss: 2.878 | Train Acc: 99.84 | Test Loss: 1.168 | Test Acc: 98.25 (98.42)
+Spent time per epoch : 7.2553sec
+cur train level:  2  cur train epoch: 70
+Epoch: 71/100 | LR: 0.0010 | Train Loss: 1.816 | Train Acc: 99.88 | Test Loss: 1.192 | Test Acc: 98.28 (98.42)
+Spent time per epoch : 7.1169sec
+cur train level:  2  cur train epoch: 71
+Epoch: 72/100 | LR: 0.0010 | Train Loss: 2.708 | Train Acc: 99.85 | Test Loss: 1.252 | Test Acc: 98.11 (98.42)
+Spent time per epoch : 7.2113sec
+cur train level:  2  cur train epoch: 72
+Epoch: 73/100 | LR: 0.0010 | Train Loss: 1.686 | Train Acc: 99.88 | Test Loss: 1.102 | Test Acc: 98.41 (98.42)
+Spent time per epoch : 7.2338sec
+cur train level:  2  cur train epoch: 73
+Epoch: 74/100 | LR: 0.0010 | Train Loss: 2.597 | Train Acc: 99.86 | Test Loss: 1.210 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 7.4284sec
+cur train level:  2  cur train epoch: 74
+Epoch: 75/100 | LR: 0.0010 | Train Loss: 2.390 | Train Acc: 99.85 | Test Loss: 1.011 | Test Acc: 98.38 (98.42)
+Spent time per epoch : 7.1606sec
+cur train level:  2  cur train epoch: 75
+Epoch: 76/100 | LR: 0.0010 | Train Loss: 1.619 | Train Acc: 99.89 | Test Loss: 1.041 | Test Acc: 98.46 (98.46)
+Spent time per epoch : 7.1754sec
+cur train level:  2  cur train epoch: 76
+Epoch: 77/100 | LR: 0.0010 | Train Loss: 2.829 | Train Acc: 99.83 | Test Loss: 1.157 | Test Acc: 98.19 (98.46)
+Spent time per epoch : 7.0144sec
+cur train level:  2  cur train epoch: 77
+Epoch: 78/100 | LR: 0.0010 | Train Loss: 1.516 | Train Acc: 99.91 | Test Loss: 1.038 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 6.9984sec
+cur train level:  2  cur train epoch: 78
+Epoch: 79/100 | LR: 0.0010 | Train Loss: 1.530 | Train Acc: 99.92 | Test Loss: 1.028 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 7.0050sec
+cur train level:  2  cur train epoch: 79
+Epoch: 80/100 | LR: 0.0010 | Train Loss: 2.509 | Train Acc: 99.83 | Test Loss: 1.252 | Test Acc: 98.21 (98.46)
+Spent time per epoch : 7.2838sec
+cur train level:  2  cur train epoch: 80
+Epoch: 81/100 | LR: 0.0010 | Train Loss: 2.047 | Train Acc: 99.89 | Test Loss: 1.125 | Test Acc: 98.29 (98.46)
+Spent time per epoch : 7.2631sec
+cur train level:  2  cur train epoch: 81
+Epoch: 82/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.86 | Test Loss: 1.086 | Test Acc: 98.33 (98.46)
+Spent time per epoch : 7.5031sec
+cur train level:  2  cur train epoch: 82
+Epoch: 83/100 | LR: 0.0010 | Train Loss: 2.188 | Train Acc: 99.87 | Test Loss: 1.021 | Test Acc: 98.39 (98.46)
+Spent time per epoch : 7.3239sec
+cur train level:  2  cur train epoch: 83
+Epoch: 84/100 | LR: 0.0010 | Train Loss: 1.536 | Train Acc: 99.91 | Test Loss: 0.990 | Test Acc: 98.41 (98.46)
+Spent time per epoch : 7.3091sec
+cur train level:  2  cur train epoch: 84
+Epoch: 85/100 | LR: 0.0010 | Train Loss: 0.576 | Train Acc: 99.97 | Test Loss: 1.019 | Test Acc: 98.47 (98.47)
+Spent time per epoch : 7.1541sec
+cur train level:  2  cur train epoch: 85
+Epoch: 86/100 | LR: 0.0010 | Train Loss: 2.849 | Train Acc: 99.86 | Test Loss: 0.974 | Test Acc: 98.29 (98.47)
+Spent time per epoch : 7.1332sec
+cur train level:  2  cur train epoch: 86
+Epoch: 87/100 | LR: 0.0010 | Train Loss: 1.558 | Train Acc: 99.89 | Test Loss: 1.099 | Test Acc: 98.24 (98.47)
+Spent time per epoch : 7.3682sec
+cur train level:  2  cur train epoch: 87
+Epoch: 88/100 | LR: 0.0010 | Train Loss: 2.560 | Train Acc: 99.84 | Test Loss: 1.121 | Test Acc: 98.17 (98.47)
+Spent time per epoch : 7.3518sec
+cur train level:  2  cur train epoch: 88
+Epoch: 89/100 | LR: 0.0010 | Train Loss: 2.610 | Train Acc: 99.85 | Test Loss: 1.029 | Test Acc: 98.41 (98.47)
+Spent time per epoch : 7.0970sec
+cur train level:  2  cur train epoch: 89
+Epoch: 90/100 | LR: 0.0010 | Train Loss: 1.454 | Train Acc: 99.89 | Test Loss: 1.076 | Test Acc: 98.27 (98.47)
+Spent time per epoch : 7.3419sec
+cur train level:  2  cur train epoch: 90
+Epoch: 91/100 | LR: 0.0010 | Train Loss: 1.365 | Train Acc: 99.92 | Test Loss: 1.016 | Test Acc: 98.39 (98.47)
+Spent time per epoch : 7.5428sec
+cur train level:  2  cur train epoch: 91
+Epoch: 92/100 | LR: 0.0010 | Train Loss: 1.684 | Train Acc: 99.90 | Test Loss: 1.014 | Test Acc: 98.35 (98.47)
+Spent time per epoch : 7.6549sec
+cur train level:  2  cur train epoch: 92
+Epoch: 93/100 | LR: 0.0010 | Train Loss: 1.306 | Train Acc: 99.92 | Test Loss: 1.027 | Test Acc: 98.49 (98.49)
+Spent time per epoch : 7.4116sec
+cur train level:  2  cur train epoch: 93
+Epoch: 94/100 | LR: 0.0010 | Train Loss: 1.789 | Train Acc: 99.91 | Test Loss: 1.061 | Test Acc: 98.32 (98.49)
+Spent time per epoch : 7.3997sec
+cur train level:  2  cur train epoch: 94
+Epoch: 95/100 | LR: 0.0010 | Train Loss: 1.754 | Train Acc: 99.87 | Test Loss: 1.147 | Test Acc: 98.38 (98.49)
+Spent time per epoch : 7.4137sec
+cur train level:  2  cur train epoch: 95
+Epoch: 96/100 | LR: 0.0010 | Train Loss: 1.822 | Train Acc: 99.90 | Test Loss: 1.136 | Test Acc: 98.28 (98.49)
+Spent time per epoch : 7.6023sec
+cur train level:  2  cur train epoch: 96
+Epoch: 97/100 | LR: 0.0010 | Train Loss: 2.075 | Train Acc: 99.88 | Test Loss: 1.009 | Test Acc: 98.39 (98.49)
+Spent time per epoch : 7.4091sec
+cur train level:  2  cur train epoch: 97
+Epoch: 98/100 | LR: 0.0010 | Train Loss: 1.047 | Train Acc: 99.93 | Test Loss: 1.094 | Test Acc: 98.31 (98.49)
+Spent time per epoch : 7.3018sec
+cur train level:  2  cur train epoch: 98
+Epoch: 99/100 | LR: 0.0010 | Train Loss: 1.884 | Train Acc: 99.88 | Test Loss: 1.176 | Test Acc: 98.29 (98.49)
+Spent time per epoch : 7.0319sec
+cur train level:  2  cur train epoch: 99
+Epoch: 100/100 | LR: 0.0010 | Train Loss: 2.197 | Train Acc: 99.88 | Test Loss: 1.046 | Test Acc: 98.33 (98.49)
+Spent time per epoch : 7.3435sec
+---------------------------- TRAINING DONE ------------------------------
+--------------------------- best_acc = 98.49 ----------------------------
+---------------------------- Time : 682.4sec -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --epochs 100 --learning-rate 0.001 --train-or-eval train --save 6_7_1_3
+cur train level:  2  cur train epoch: 0
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+Epoch: 1/100 | LR: 0.0010 | Train Loss: 128.420 | Train Acc: 92.10 | Test Loss: 1.730 | Test Acc: 96.00 (96.00)
+Spent time per epoch : 6.4515sec
+cur train level:  2  cur train epoch: 1
+Epoch: 2/100 | LR: 0.0010 | Train Loss: 69.223 | Train Acc: 95.72 | Test Loss: 1.457 | Test Acc: 96.57 (96.57)
+Spent time per epoch : 7.2366sec
+cur train level:  2  cur train epoch: 2
+Epoch: 3/100 | LR: 0.0010 | Train Loss: 50.913 | Train Acc: 96.81 | Test Loss: 1.424 | Test Acc: 96.74 (96.74)
+Spent time per epoch : 7.0160sec
+cur train level:  2  cur train epoch: 3
+Epoch: 4/100 | LR: 0.0010 | Train Loss: 41.812 | Train Acc: 97.38 | Test Loss: 1.411 | Test Acc: 96.71 (96.74)
+Spent time per epoch : 7.5252sec
+cur train level:  2  cur train epoch: 4
+Epoch: 5/100 | LR: 0.0010 | Train Loss: 34.446 | Train Acc: 97.80 | Test Loss: 1.100 | Test Acc: 97.32 (97.32)
+Spent time per epoch : 7.1409sec
+cur train level:  2  cur train epoch: 5
+Epoch: 6/100 | LR: 0.0010 | Train Loss: 31.113 | Train Acc: 97.99 | Test Loss: 0.927 | Test Acc: 97.73 (97.73)
+Spent time per epoch : 7.2863sec
+cur train level:  2  cur train epoch: 6
+Epoch: 7/100 | LR: 0.0010 | Train Loss: 27.426 | Train Acc: 98.24 | Test Loss: 0.981 | Test Acc: 97.67 (97.73)
+Spent time per epoch : 7.5457sec
+cur train level:  2  cur train epoch: 7
+Epoch: 8/100 | LR: 0.0010 | Train Loss: 24.007 | Train Acc: 98.40 | Test Loss: 1.348 | Test Acc: 96.90 (97.73)
+Spent time per epoch : 7.3088sec
+cur train level:  2  cur train epoch: 8
+Epoch: 9/100 | LR: 0.0010 | Train Loss: 21.468 | Train Acc: 98.62 | Test Loss: 0.988 | Test Acc: 97.86 (97.86)
+Spent time per epoch : 7.2530sec
+cur train level:  2  cur train epoch: 9
+Epoch: 10/100 | LR: 0.0010 | Train Loss: 20.269 | Train Acc: 98.66 | Test Loss: 1.125 | Test Acc: 97.37 (97.86)
+Spent time per epoch : 7.1140sec
+cur train level:  2  cur train epoch: 10
+Epoch: 11/100 | LR: 0.0010 | Train Loss: 16.458 | Train Acc: 98.93 | Test Loss: 1.114 | Test Acc: 97.69 (97.86)
+Spent time per epoch : 7.3641sec
+cur train level:  2  cur train epoch: 11
+Epoch: 12/100 | LR: 0.0010 | Train Loss: 17.388 | Train Acc: 98.90 | Test Loss: 1.173 | Test Acc: 97.44 (97.86)
+Spent time per epoch : 7.3035sec
+cur train level:  2  cur train epoch: 12
+Epoch: 13/100 | LR: 0.0010 | Train Loss: 17.081 | Train Acc: 98.86 | Test Loss: 1.046 | Test Acc: 97.77 (97.86)
+Spent time per epoch : 7.0025sec
+cur train level:  2  cur train epoch: 13
+Epoch: 14/100 | LR: 0.0010 | Train Loss: 14.296 | Train Acc: 99.11 | Test Loss: 1.071 | Test Acc: 97.78 (97.86)
+Spent time per epoch : 7.2990sec
+cur train level:  2  cur train epoch: 14
+Epoch: 15/100 | LR: 0.0010 | Train Loss: 12.739 | Train Acc: 99.14 | Test Loss: 1.307 | Test Acc: 97.33 (97.86)
+Spent time per epoch : 7.3901sec
+cur train level:  2  cur train epoch: 15
+Epoch: 16/100 | LR: 0.0010 | Train Loss: 12.319 | Train Acc: 99.19 | Test Loss: 1.262 | Test Acc: 97.58 (97.86)
+Spent time per epoch : 7.2384sec
+cur train level:  2  cur train epoch: 16
+Epoch: 17/100 | LR: 0.0010 | Train Loss: 12.242 | Train Acc: 99.21 | Test Loss: 0.973 | Test Acc: 98.08 (98.08)
+Spent time per epoch : 7.3163sec
+cur train level:  2  cur train epoch: 17
+Epoch: 18/100 | LR: 0.0010 | Train Loss: 10.544 | Train Acc: 99.32 | Test Loss: 1.098 | Test Acc: 98.04 (98.08)
+Spent time per epoch : 6.9625sec
+cur train level:  2  cur train epoch: 18
+Epoch: 19/100 | LR: 0.0010 | Train Loss: 11.033 | Train Acc: 99.28 | Test Loss: 1.045 | Test Acc: 97.88 (98.08)
+Spent time per epoch : 7.0007sec
+cur train level:  2  cur train epoch: 19
+Epoch: 20/100 | LR: 0.0010 | Train Loss: 8.978 | Train Acc: 99.39 | Test Loss: 0.988 | Test Acc: 97.97 (98.08)
+Spent time per epoch : 7.0625sec
+cur train level:  2  cur train epoch: 20
+Epoch: 21/100 | LR: 0.0010 | Train Loss: 10.658 | Train Acc: 99.34 | Test Loss: 1.168 | Test Acc: 97.87 (98.08)
+Spent time per epoch : 6.9018sec
+cur train level:  2  cur train epoch: 21
+Epoch: 22/100 | LR: 0.0010 | Train Loss: 9.316 | Train Acc: 99.39 | Test Loss: 1.163 | Test Acc: 97.91 (98.08)
+Spent time per epoch : 7.0636sec
+cur train level:  2  cur train epoch: 22
+Epoch: 23/100 | LR: 0.0010 | Train Loss: 8.011 | Train Acc: 99.45 | Test Loss: 0.938 | Test Acc: 98.22 (98.22)
+Spent time per epoch : 7.2575sec
+cur train level:  2  cur train epoch: 23
+Epoch: 24/100 | LR: 0.0010 | Train Loss: 8.913 | Train Acc: 99.41 | Test Loss: 1.000 | Test Acc: 98.13 (98.22)
+Spent time per epoch : 7.2047sec
+cur train level:  2  cur train epoch: 24
+Epoch: 25/100 | LR: 0.0010 | Train Loss: 7.117 | Train Acc: 99.54 | Test Loss: 1.169 | Test Acc: 97.90 (98.22)
+Spent time per epoch : 7.0890sec
+cur train level:  2  cur train epoch: 25
+Epoch: 26/100 | LR: 0.0010 | Train Loss: 7.074 | Train Acc: 99.60 | Test Loss: 1.194 | Test Acc: 97.97 (98.22)
+Spent time per epoch : 6.9199sec
+cur train level:  2  cur train epoch: 26
+Epoch: 27/100 | LR: 0.0010 | Train Loss: 8.401 | Train Acc: 99.43 | Test Loss: 1.029 | Test Acc: 98.01 (98.22)
+Spent time per epoch : 7.0861sec
+cur train level:  2  cur train epoch: 27
+Epoch: 28/100 | LR: 0.0010 | Train Loss: 6.740 | Train Acc: 99.57 | Test Loss: 1.016 | Test Acc: 98.09 (98.22)
+Spent time per epoch : 7.4800sec
+cur train level:  2  cur train epoch: 28
+Epoch: 29/100 | LR: 0.0010 | Train Loss: 6.140 | Train Acc: 99.61 | Test Loss: 1.101 | Test Acc: 98.21 (98.22)
+Spent time per epoch : 7.1538sec
+cur train level:  2  cur train epoch: 29
+Epoch: 30/100 | LR: 0.0010 | Train Loss: 7.047 | Train Acc: 99.53 | Test Loss: 1.127 | Test Acc: 97.95 (98.22)
+Spent time per epoch : 6.9058sec
+cur train level:  2  cur train epoch: 30
+Epoch: 31/100 | LR: 0.0010 | Train Loss: 5.303 | Train Acc: 99.62 | Test Loss: 1.179 | Test Acc: 98.06 (98.22)
+Spent time per epoch : 7.0735sec
+cur train level:  2  cur train epoch: 31
+Epoch: 32/100 | LR: 0.0010 | Train Loss: 5.469 | Train Acc: 99.62 | Test Loss: 1.131 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 7.0239sec
+cur train level:  2  cur train epoch: 32
+Epoch: 33/100 | LR: 0.0010 | Train Loss: 4.234 | Train Acc: 99.75 | Test Loss: 1.177 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 7.1108sec
+cur train level:  2  cur train epoch: 33
+Epoch: 34/100 | LR: 0.0010 | Train Loss: 5.784 | Train Acc: 99.62 | Test Loss: 1.093 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 7.1897sec
+cur train level:  2  cur train epoch: 34
+Epoch: 35/100 | LR: 0.0010 | Train Loss: 4.415 | Train Acc: 99.70 | Test Loss: 1.312 | Test Acc: 97.66 (98.22)
+Spent time per epoch : 7.2975sec
+cur train level:  2  cur train epoch: 35
+Epoch: 36/100 | LR: 0.0010 | Train Loss: 6.679 | Train Acc: 99.58 | Test Loss: 1.130 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 6.9862sec
+cur train level:  2  cur train epoch: 36
+Epoch: 37/100 | LR: 0.0010 | Train Loss: 4.273 | Train Acc: 99.74 | Test Loss: 1.139 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 7.0274sec
+cur train level:  2  cur train epoch: 37
+Epoch: 38/100 | LR: 0.0010 | Train Loss: 5.543 | Train Acc: 99.63 | Test Loss: 1.087 | Test Acc: 98.11 (98.22)
+Spent time per epoch : 7.0604sec
+cur train level:  2  cur train epoch: 38
+Epoch: 39/100 | LR: 0.0010 | Train Loss: 3.819 | Train Acc: 99.75 | Test Loss: 1.114 | Test Acc: 98.25 (98.25)
+Spent time per epoch : 7.1455sec
+cur train level:  2  cur train epoch: 39
+Epoch: 40/100 | LR: 0.0010 | Train Loss: 5.470 | Train Acc: 99.66 | Test Loss: 1.009 | Test Acc: 98.22 (98.25)
+Spent time per epoch : 7.0343sec
+cur train level:  2  cur train epoch: 40
+Epoch: 41/100 | LR: 0.0010 | Train Loss: 5.316 | Train Acc: 99.66 | Test Loss: 1.203 | Test Acc: 98.08 (98.25)
+Spent time per epoch : 7.3339sec
+cur train level:  2  cur train epoch: 41
+Epoch: 42/100 | LR: 0.0010 | Train Loss: 3.506 | Train Acc: 99.78 | Test Loss: 1.029 | Test Acc: 98.19 (98.25)
+Spent time per epoch : 7.0787sec
+cur train level:  2  cur train epoch: 42
+Epoch: 43/100 | LR: 0.0010 | Train Loss: 4.321 | Train Acc: 99.73 | Test Loss: 1.110 | Test Acc: 98.17 (98.25)
+Spent time per epoch : 7.5608sec
+cur train level:  2  cur train epoch: 43
+Epoch: 44/100 | LR: 0.0010 | Train Loss: 4.275 | Train Acc: 99.73 | Test Loss: 1.204 | Test Acc: 98.04 (98.25)
+Spent time per epoch : 7.1912sec
+cur train level:  2  cur train epoch: 44
+Epoch: 45/100 | LR: 0.0010 | Train Loss: 4.162 | Train Acc: 99.74 | Test Loss: 1.161 | Test Acc: 98.12 (98.25)
+Spent time per epoch : 7.1944sec
+cur train level:  2  cur train epoch: 45
+Epoch: 46/100 | LR: 0.0010 | Train Loss: 3.593 | Train Acc: 99.77 | Test Loss: 1.046 | Test Acc: 98.36 (98.36)
+Spent time per epoch : 7.2508sec
+cur train level:  2  cur train epoch: 46
+Epoch: 47/100 | LR: 0.0010 | Train Loss: 3.429 | Train Acc: 99.78 | Test Loss: 1.074 | Test Acc: 98.23 (98.36)
+Spent time per epoch : 7.1743sec
+cur train level:  2  cur train epoch: 47
+Epoch: 48/100 | LR: 0.0010 | Train Loss: 3.705 | Train Acc: 99.76 | Test Loss: 1.142 | Test Acc: 98.17 (98.36)
+Spent time per epoch : 7.3566sec
+cur train level:  2  cur train epoch: 48
+Epoch: 49/100 | LR: 0.0010 | Train Loss: 3.965 | Train Acc: 99.74 | Test Loss: 0.992 | Test Acc: 98.38 (98.38)
+Spent time per epoch : 7.1622sec
+cur train level:  2  cur train epoch: 49
+Epoch: 50/100 | LR: 0.0010 | Train Loss: 3.800 | Train Acc: 99.75 | Test Loss: 1.032 | Test Acc: 98.23 (98.38)
+Spent time per epoch : 7.1146sec
+cur train level:  2  cur train epoch: 50
+Epoch: 51/100 | LR: 0.0010 | Train Loss: 3.197 | Train Acc: 99.82 | Test Loss: 1.051 | Test Acc: 98.34 (98.38)
+Spent time per epoch : 7.0255sec
+cur train level:  2  cur train epoch: 51
+Epoch: 52/100 | LR: 0.0010 | Train Loss: 2.515 | Train Acc: 99.85 | Test Loss: 1.298 | Test Acc: 97.97 (98.38)
+Spent time per epoch : 7.1494sec
+cur train level:  2  cur train epoch: 52
+Epoch: 53/100 | LR: 0.0010 | Train Loss: 3.828 | Train Acc: 99.76 | Test Loss: 1.113 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 7.1739sec
+cur train level:  2  cur train epoch: 53
+Epoch: 54/100 | LR: 0.0010 | Train Loss: 3.434 | Train Acc: 99.81 | Test Loss: 1.079 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 7.1750sec
+cur train level:  2  cur train epoch: 54
+Epoch: 55/100 | LR: 0.0010 | Train Loss: 2.754 | Train Acc: 99.83 | Test Loss: 1.064 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 6.9851sec
+cur train level:  2  cur train epoch: 55
+Epoch: 56/100 | LR: 0.0010 | Train Loss: 3.473 | Train Acc: 99.79 | Test Loss: 1.115 | Test Acc: 98.19 (98.38)
+Spent time per epoch : 7.1689sec
+cur train level:  2  cur train epoch: 56
+Epoch: 57/100 | LR: 0.0010 | Train Loss: 2.924 | Train Acc: 99.82 | Test Loss: 1.036 | Test Acc: 98.28 (98.38)
+Spent time per epoch : 7.0574sec
+cur train level:  2  cur train epoch: 57
+Epoch: 58/100 | LR: 0.0010 | Train Loss: 2.042 | Train Acc: 99.86 | Test Loss: 0.969 | Test Acc: 98.35 (98.38)
+Spent time per epoch : 7.1629sec
+cur train level:  2  cur train epoch: 58
+Epoch: 59/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.85 | Test Loss: 1.210 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 7.0377sec
+cur train level:  2  cur train epoch: 59
+Epoch: 60/100 | LR: 0.0010 | Train Loss: 3.636 | Train Acc: 99.79 | Test Loss: 1.318 | Test Acc: 98.11 (98.38)
+Spent time per epoch : 7.0516sec
+cur train level:  2  cur train epoch: 60
+Epoch: 61/100 | LR: 0.0010 | Train Loss: 3.420 | Train Acc: 99.79 | Test Loss: 1.083 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 7.3358sec
+cur train level:  2  cur train epoch: 61
+Epoch: 62/100 | LR: 0.0010 | Train Loss: 2.745 | Train Acc: 99.85 | Test Loss: 1.047 | Test Acc: 98.17 (98.38)
+Spent time per epoch : 7.3027sec
+cur train level:  2  cur train epoch: 62
+Epoch: 63/100 | LR: 0.0010 | Train Loss: 2.419 | Train Acc: 99.81 | Test Loss: 1.097 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 6.7945sec
+cur train level:  2  cur train epoch: 63
+Epoch: 64/100 | LR: 0.0010 | Train Loss: 3.234 | Train Acc: 99.80 | Test Loss: 1.152 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 7.0526sec
+cur train level:  2  cur train epoch: 64
+Epoch: 65/100 | LR: 0.0010 | Train Loss: 2.337 | Train Acc: 99.84 | Test Loss: 1.093 | Test Acc: 98.33 (98.38)
+Spent time per epoch : 6.7304sec
+cur train level:  2  cur train epoch: 65
+Epoch: 66/100 | LR: 0.0010 | Train Loss: 2.431 | Train Acc: 99.85 | Test Loss: 1.078 | Test Acc: 98.31 (98.38)
+Spent time per epoch : 7.0562sec
+cur train level:  2  cur train epoch: 66
+Epoch: 67/100 | LR: 0.0010 | Train Loss: 2.414 | Train Acc: 99.85 | Test Loss: 1.010 | Test Acc: 98.42 (98.42)
+Spent time per epoch : 7.0253sec
+cur train level:  2  cur train epoch: 67
+Epoch: 68/100 | LR: 0.0010 | Train Loss: 2.133 | Train Acc: 99.88 | Test Loss: 1.139 | Test Acc: 98.23 (98.42)
+Spent time per epoch : 6.9992sec
+cur train level:  2  cur train epoch: 68
+Epoch: 69/100 | LR: 0.0010 | Train Loss: 2.272 | Train Acc: 99.85 | Test Loss: 1.226 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 7.0778sec
+cur train level:  2  cur train epoch: 69
+Epoch: 70/100 | LR: 0.0010 | Train Loss: 2.878 | Train Acc: 99.84 | Test Loss: 1.168 | Test Acc: 98.25 (98.42)
+Spent time per epoch : 7.1739sec
+cur train level:  2  cur train epoch: 70
+Epoch: 71/100 | LR: 0.0010 | Train Loss: 1.816 | Train Acc: 99.88 | Test Loss: 1.192 | Test Acc: 98.28 (98.42)
+Spent time per epoch : 7.0816sec
+cur train level:  2  cur train epoch: 71
+Epoch: 72/100 | LR: 0.0010 | Train Loss: 2.708 | Train Acc: 99.85 | Test Loss: 1.252 | Test Acc: 98.11 (98.42)
+Spent time per epoch : 6.9973sec
+cur train level:  2  cur train epoch: 72
+Epoch: 73/100 | LR: 0.0010 | Train Loss: 1.686 | Train Acc: 99.88 | Test Loss: 1.102 | Test Acc: 98.41 (98.42)
+Spent time per epoch : 6.9578sec
+cur train level:  2  cur train epoch: 73
+Epoch: 74/100 | LR: 0.0010 | Train Loss: 2.597 | Train Acc: 99.86 | Test Loss: 1.210 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 7.0584sec
+cur train level:  2  cur train epoch: 74
+Epoch: 75/100 | LR: 0.0010 | Train Loss: 2.390 | Train Acc: 99.85 | Test Loss: 1.011 | Test Acc: 98.38 (98.42)
+Spent time per epoch : 7.0559sec
+cur train level:  2  cur train epoch: 75
+Epoch: 76/100 | LR: 0.0010 | Train Loss: 1.619 | Train Acc: 99.89 | Test Loss: 1.041 | Test Acc: 98.46 (98.46)
+Spent time per epoch : 7.1783sec
+cur train level:  2  cur train epoch: 76
+Epoch: 77/100 | LR: 0.0010 | Train Loss: 2.829 | Train Acc: 99.83 | Test Loss: 1.157 | Test Acc: 98.19 (98.46)
+Spent time per epoch : 7.1685sec
+cur train level:  2  cur train epoch: 77
+Epoch: 78/100 | LR: 0.0010 | Train Loss: 1.516 | Train Acc: 99.91 | Test Loss: 1.038 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 7.2865sec
+cur train level:  2  cur train epoch: 78
+Epoch: 79/100 | LR: 0.0010 | Train Loss: 1.530 | Train Acc: 99.92 | Test Loss: 1.028 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 6.9036sec
+cur train level:  2  cur train epoch: 79
+Epoch: 80/100 | LR: 0.0010 | Train Loss: 2.509 | Train Acc: 99.83 | Test Loss: 1.252 | Test Acc: 98.21 (98.46)
+Spent time per epoch : 6.9942sec
+cur train level:  2  cur train epoch: 80
+Epoch: 81/100 | LR: 0.0010 | Train Loss: 2.047 | Train Acc: 99.89 | Test Loss: 1.125 | Test Acc: 98.29 (98.46)
+Spent time per epoch : 7.0110sec
+cur train level:  2  cur train epoch: 81
+Epoch: 82/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.86 | Test Loss: 1.086 | Test Acc: 98.33 (98.46)
+Spent time per epoch : 7.3860sec
+cur train level:  2  cur train epoch: 82
+Epoch: 83/100 | LR: 0.0010 | Train Loss: 2.188 | Train Acc: 99.87 | Test Loss: 1.021 | Test Acc: 98.39 (98.46)
+Spent time per epoch : 7.0413sec
+cur train level:  2  cur train epoch: 83
+Epoch: 84/100 | LR: 0.0010 | Train Loss: 1.536 | Train Acc: 99.91 | Test Loss: 0.990 | Test Acc: 98.41 (98.46)
+Spent time per epoch : 6.9490sec
+cur train level:  2  cur train epoch: 84
+Epoch: 85/100 | LR: 0.0010 | Train Loss: 0.576 | Train Acc: 99.97 | Test Loss: 1.019 | Test Acc: 98.47 (98.47)
+Spent time per epoch : 6.8068sec
+cur train level:  2  cur train epoch: 85
+Epoch: 86/100 | LR: 0.0010 | Train Loss: 2.849 | Train Acc: 99.86 | Test Loss: 0.974 | Test Acc: 98.29 (98.47)
+Spent time per epoch : 6.9671sec
+cur train level:  2  cur train epoch: 86
+Epoch: 87/100 | LR: 0.0010 | Train Loss: 1.558 | Train Acc: 99.89 | Test Loss: 1.099 | Test Acc: 98.24 (98.47)
+Spent time per epoch : 7.2792sec
+cur train level:  2  cur train epoch: 87
+Epoch: 88/100 | LR: 0.0010 | Train Loss: 2.560 | Train Acc: 99.84 | Test Loss: 1.121 | Test Acc: 98.17 (98.47)
+Spent time per epoch : 6.8778sec
+cur train level:  2  cur train epoch: 88
+Epoch: 89/100 | LR: 0.0010 | Train Loss: 2.610 | Train Acc: 99.85 | Test Loss: 1.029 | Test Acc: 98.41 (98.47)
+Spent time per epoch : 7.0540sec
+cur train level:  2  cur train epoch: 89
+Epoch: 90/100 | LR: 0.0010 | Train Loss: 1.454 | Train Acc: 99.89 | Test Loss: 1.076 | Test Acc: 98.27 (98.47)
+Spent time per epoch : 7.0573sec
+cur train level:  2  cur train epoch: 90
+Epoch: 91/100 | LR: 0.0010 | Train Loss: 1.365 | Train Acc: 99.92 | Test Loss: 1.016 | Test Acc: 98.39 (98.47)
+Spent time per epoch : 7.0366sec
+cur train level:  2  cur train epoch: 91
+Epoch: 92/100 | LR: 0.0010 | Train Loss: 1.684 | Train Acc: 99.90 | Test Loss: 1.014 | Test Acc: 98.35 (98.47)
+Spent time per epoch : 6.8338sec
+cur train level:  2  cur train epoch: 92
+Epoch: 93/100 | LR: 0.0010 | Train Loss: 1.306 | Train Acc: 99.92 | Test Loss: 1.027 | Test Acc: 98.49 (98.49)
+Spent time per epoch : 6.9694sec
+cur train level:  2  cur train epoch: 93
+Epoch: 94/100 | LR: 0.0010 | Train Loss: 1.789 | Train Acc: 99.91 | Test Loss: 1.061 | Test Acc: 98.32 (98.49)
+Spent time per epoch : 6.9773sec
+cur train level:  2  cur train epoch: 94
+Epoch: 95/100 | LR: 0.0010 | Train Loss: 1.754 | Train Acc: 99.87 | Test Loss: 1.147 | Test Acc: 98.38 (98.49)
+Spent time per epoch : 6.9181sec
+cur train level:  2  cur train epoch: 95
+Epoch: 96/100 | LR: 0.0010 | Train Loss: 1.822 | Train Acc: 99.90 | Test Loss: 1.136 | Test Acc: 98.28 (98.49)
+Spent time per epoch : 7.3254sec
+cur train level:  2  cur train epoch: 96
+Epoch: 97/100 | LR: 0.0010 | Train Loss: 2.075 | Train Acc: 99.88 | Test Loss: 1.009 | Test Acc: 98.39 (98.49)
+Spent time per epoch : 7.3881sec
+cur train level:  2  cur train epoch: 97
+Epoch: 98/100 | LR: 0.0010 | Train Loss: 1.047 | Train Acc: 99.93 | Test Loss: 1.094 | Test Acc: 98.31 (98.49)
+Spent time per epoch : 8.1601sec
+cur train level:  2  cur train epoch: 98
+Epoch: 99/100 | LR: 0.0010 | Train Loss: 1.884 | Train Acc: 99.88 | Test Loss: 1.176 | Test Acc: 98.29 (98.49)
+Spent time per epoch : 7.0937sec
+cur train level:  2  cur train epoch: 99
+Epoch: 100/100 | LR: 0.0010 | Train Loss: 2.197 | Train Acc: 99.88 | Test Loss: 1.046 | Test Acc: 98.33 (98.49)
+Spent time per epoch : 7.4421sec
+---------------------------- TRAINING DONE ------------------------------
+--------------------------- best_acc = 98.49 ----------------------------
+---------------------------- Time : 713.1sec -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --epochs 100 --learning-rate 0.001 --train-or-eval train --save 6_7_1_4
+cur train level:  2  cur train epoch: 0
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+Epoch: 1/100 | LR: 0.0010 | Train Loss: 128.420 | Train Acc: 92.10 | Test Loss: 1.730 | Test Acc: 96.00 (96.00)
+Spent time per epoch : 6.2707sec
+cur train level:  2  cur train epoch: 1
+Epoch: 2/100 | LR: 0.0010 | Train Loss: 69.223 | Train Acc: 95.72 | Test Loss: 1.457 | Test Acc: 96.57 (96.57)
+Spent time per epoch : 6.9932sec
+cur train level:  2  cur train epoch: 2
+Epoch: 3/100 | LR: 0.0010 | Train Loss: 50.913 | Train Acc: 96.81 | Test Loss: 1.424 | Test Acc: 96.74 (96.74)
+Spent time per epoch : 6.9769sec
+cur train level:  2  cur train epoch: 3
+Epoch: 4/100 | LR: 0.0010 | Train Loss: 41.812 | Train Acc: 97.38 | Test Loss: 1.411 | Test Acc: 96.71 (96.74)
+Spent time per epoch : 6.9497sec
+cur train level:  2  cur train epoch: 4
+Epoch: 5/100 | LR: 0.0010 | Train Loss: 34.446 | Train Acc: 97.80 | Test Loss: 1.100 | Test Acc: 97.32 (97.32)
+Spent time per epoch : 6.8818sec
+cur train level:  2  cur train epoch: 5
+Epoch: 6/100 | LR: 0.0010 | Train Loss: 31.113 | Train Acc: 97.99 | Test Loss: 0.927 | Test Acc: 97.73 (97.73)
+Spent time per epoch : 7.0697sec
+cur train level:  2  cur train epoch: 6
+Epoch: 7/100 | LR: 0.0010 | Train Loss: 27.426 | Train Acc: 98.24 | Test Loss: 0.981 | Test Acc: 97.67 (97.73)
+Spent time per epoch : 7.6116sec
+cur train level:  2  cur train epoch: 7
+Epoch: 8/100 | LR: 0.0010 | Train Loss: 24.007 | Train Acc: 98.40 | Test Loss: 1.348 | Test Acc: 96.90 (97.73)
+Spent time per epoch : 6.9704sec
+cur train level:  2  cur train epoch: 8
+Epoch: 9/100 | LR: 0.0010 | Train Loss: 21.468 | Train Acc: 98.62 | Test Loss: 0.988 | Test Acc: 97.86 (97.86)
+Spent time per epoch : 7.0831sec
+cur train level:  2  cur train epoch: 9
+Epoch: 10/100 | LR: 0.0010 | Train Loss: 20.269 | Train Acc: 98.66 | Test Loss: 1.125 | Test Acc: 97.37 (97.86)
+Spent time per epoch : 7.1445sec
+cur train level:  2  cur train epoch: 10
+Epoch: 11/100 | LR: 0.0010 | Train Loss: 16.458 | Train Acc: 98.93 | Test Loss: 1.114 | Test Acc: 97.69 (97.86)
+Spent time per epoch : 7.1235sec
+cur train level:  2  cur train epoch: 11
+Epoch: 12/100 | LR: 0.0010 | Train Loss: 17.388 | Train Acc: 98.90 | Test Loss: 1.173 | Test Acc: 97.44 (97.86)
+Spent time per epoch : 7.2015sec
+cur train level:  2  cur train epoch: 12
+Epoch: 13/100 | LR: 0.0010 | Train Loss: 17.081 | Train Acc: 98.86 | Test Loss: 1.046 | Test Acc: 97.77 (97.86)
+Spent time per epoch : 7.0962sec
+cur train level:  2  cur train epoch: 13
+Epoch: 14/100 | LR: 0.0010 | Train Loss: 14.296 | Train Acc: 99.11 | Test Loss: 1.071 | Test Acc: 97.78 (97.86)
+Spent time per epoch : 7.2149sec
+cur train level:  2  cur train epoch: 14
+Epoch: 15/100 | LR: 0.0010 | Train Loss: 12.739 | Train Acc: 99.14 | Test Loss: 1.307 | Test Acc: 97.33 (97.86)
+Spent time per epoch : 7.0969sec
+cur train level:  2  cur train epoch: 15
+Epoch: 16/100 | LR: 0.0010 | Train Loss: 12.319 | Train Acc: 99.19 | Test Loss: 1.262 | Test Acc: 97.58 (97.86)
+Spent time per epoch : 7.1688sec
+cur train level:  2  cur train epoch: 16
+Epoch: 17/100 | LR: 0.0010 | Train Loss: 12.242 | Train Acc: 99.21 | Test Loss: 0.973 | Test Acc: 98.08 (98.08)
+Spent time per epoch : 7.1780sec
+cur train level:  2  cur train epoch: 17
+Epoch: 18/100 | LR: 0.0010 | Train Loss: 10.544 | Train Acc: 99.32 | Test Loss: 1.098 | Test Acc: 98.04 (98.08)
+Spent time per epoch : 7.0856sec
+cur train level:  2  cur train epoch: 18
+Epoch: 19/100 | LR: 0.0010 | Train Loss: 11.033 | Train Acc: 99.28 | Test Loss: 1.045 | Test Acc: 97.88 (98.08)
+Spent time per epoch : 7.1832sec
+cur train level:  2  cur train epoch: 19
+Epoch: 20/100 | LR: 0.0010 | Train Loss: 8.978 | Train Acc: 99.39 | Test Loss: 0.988 | Test Acc: 97.97 (98.08)
+Spent time per epoch : 7.0824sec
+cur train level:  2  cur train epoch: 20
+Epoch: 21/100 | LR: 0.0010 | Train Loss: 10.658 | Train Acc: 99.34 | Test Loss: 1.168 | Test Acc: 97.87 (98.08)
+Spent time per epoch : 7.1716sec
+cur train level:  2  cur train epoch: 21
+Epoch: 22/100 | LR: 0.0010 | Train Loss: 9.316 | Train Acc: 99.39 | Test Loss: 1.163 | Test Acc: 97.91 (98.08)
+Spent time per epoch : 7.1693sec
+cur train level:  2  cur train epoch: 22
+Epoch: 23/100 | LR: 0.0010 | Train Loss: 8.011 | Train Acc: 99.45 | Test Loss: 0.938 | Test Acc: 98.22 (98.22)
+Spent time per epoch : 7.1307sec
+cur train level:  2  cur train epoch: 23
+Epoch: 24/100 | LR: 0.0010 | Train Loss: 8.913 | Train Acc: 99.41 | Test Loss: 1.000 | Test Acc: 98.13 (98.22)
+Spent time per epoch : 7.1130sec
+cur train level:  2  cur train epoch: 24
+Epoch: 25/100 | LR: 0.0010 | Train Loss: 7.117 | Train Acc: 99.54 | Test Loss: 1.169 | Test Acc: 97.90 (98.22)
+Spent time per epoch : 7.1999sec
+cur train level:  2  cur train epoch: 25
+Epoch: 26/100 | LR: 0.0010 | Train Loss: 7.074 | Train Acc: 99.60 | Test Loss: 1.194 | Test Acc: 97.97 (98.22)
+Spent time per epoch : 7.2154sec
+cur train level:  2  cur train epoch: 26
+Epoch: 27/100 | LR: 0.0010 | Train Loss: 8.401 | Train Acc: 99.43 | Test Loss: 1.029 | Test Acc: 98.01 (98.22)
+Spent time per epoch : 7.1262sec
+cur train level:  2  cur train epoch: 27
+Epoch: 28/100 | LR: 0.0010 | Train Loss: 6.740 | Train Acc: 99.57 | Test Loss: 1.016 | Test Acc: 98.09 (98.22)
+Spent time per epoch : 7.1535sec
+cur train level:  2  cur train epoch: 28
+Epoch: 29/100 | LR: 0.0010 | Train Loss: 6.140 | Train Acc: 99.61 | Test Loss: 1.101 | Test Acc: 98.21 (98.22)
+Spent time per epoch : 7.1155sec
+cur train level:  2  cur train epoch: 29
+Epoch: 30/100 | LR: 0.0010 | Train Loss: 7.047 | Train Acc: 99.53 | Test Loss: 1.127 | Test Acc: 97.95 (98.22)
+Spent time per epoch : 7.1360sec
+cur train level:  2  cur train epoch: 30
+Epoch: 31/100 | LR: 0.0010 | Train Loss: 5.303 | Train Acc: 99.62 | Test Loss: 1.179 | Test Acc: 98.06 (98.22)
+Spent time per epoch : 7.2006sec
+cur train level:  2  cur train epoch: 31
+Epoch: 32/100 | LR: 0.0010 | Train Loss: 5.469 | Train Acc: 99.62 | Test Loss: 1.131 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 7.3113sec
+cur train level:  2  cur train epoch: 32
+Epoch: 33/100 | LR: 0.0010 | Train Loss: 4.234 | Train Acc: 99.75 | Test Loss: 1.177 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 7.3355sec
+cur train level:  2  cur train epoch: 33
+Epoch: 34/100 | LR: 0.0010 | Train Loss: 5.784 | Train Acc: 99.62 | Test Loss: 1.093 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 7.1378sec
+cur train level:  2  cur train epoch: 34
+Epoch: 35/100 | LR: 0.0010 | Train Loss: 4.415 | Train Acc: 99.70 | Test Loss: 1.312 | Test Acc: 97.66 (98.22)
+Spent time per epoch : 7.1098sec
+cur train level:  2  cur train epoch: 35
+Epoch: 36/100 | LR: 0.0010 | Train Loss: 6.679 | Train Acc: 99.58 | Test Loss: 1.130 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 7.1615sec
+cur train level:  2  cur train epoch: 36
+Epoch: 37/100 | LR: 0.0010 | Train Loss: 4.273 | Train Acc: 99.74 | Test Loss: 1.139 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 7.0853sec
+cur train level:  2  cur train epoch: 37
+Epoch: 38/100 | LR: 0.0010 | Train Loss: 5.543 | Train Acc: 99.63 | Test Loss: 1.087 | Test Acc: 98.11 (98.22)
+Spent time per epoch : 7.1863sec
+cur train level:  2  cur train epoch: 38
+Epoch: 39/100 | LR: 0.0010 | Train Loss: 3.819 | Train Acc: 99.75 | Test Loss: 1.114 | Test Acc: 98.25 (98.25)
+Spent time per epoch : 7.0710sec
+cur train level:  2  cur train epoch: 39
+Epoch: 40/100 | LR: 0.0010 | Train Loss: 5.470 | Train Acc: 99.66 | Test Loss: 1.009 | Test Acc: 98.22 (98.25)
+Spent time per epoch : 7.0366sec
+cur train level:  2  cur train epoch: 40
+Epoch: 41/100 | LR: 0.0010 | Train Loss: 5.316 | Train Acc: 99.66 | Test Loss: 1.203 | Test Acc: 98.08 (98.25)
+Spent time per epoch : 7.0487sec
+cur train level:  2  cur train epoch: 41
+Epoch: 42/100 | LR: 0.0010 | Train Loss: 3.506 | Train Acc: 99.78 | Test Loss: 1.029 | Test Acc: 98.19 (98.25)
+Spent time per epoch : 7.1009sec
+cur train level:  2  cur train epoch: 42
+Epoch: 43/100 | LR: 0.0010 | Train Loss: 4.321 | Train Acc: 99.73 | Test Loss: 1.110 | Test Acc: 98.17 (98.25)
+Spent time per epoch : 7.0041sec
+cur train level:  2  cur train epoch: 43
+Epoch: 44/100 | LR: 0.0010 | Train Loss: 4.275 | Train Acc: 99.73 | Test Loss: 1.204 | Test Acc: 98.04 (98.25)
+Spent time per epoch : 7.0601sec
+cur train level:  2  cur train epoch: 44
+Epoch: 45/100 | LR: 0.0010 | Train Loss: 4.162 | Train Acc: 99.74 | Test Loss: 1.161 | Test Acc: 98.12 (98.25)
+Spent time per epoch : 7.2029sec
+cur train level:  2  cur train epoch: 45
+Epoch: 46/100 | LR: 0.0010 | Train Loss: 3.593 | Train Acc: 99.77 | Test Loss: 1.046 | Test Acc: 98.36 (98.36)
+Spent time per epoch : 7.1025sec
+cur train level:  2  cur train epoch: 46
+Epoch: 47/100 | LR: 0.0010 | Train Loss: 3.429 | Train Acc: 99.78 | Test Loss: 1.074 | Test Acc: 98.23 (98.36)
+Spent time per epoch : 7.1323sec
+cur train level:  2  cur train epoch: 47
+Epoch: 48/100 | LR: 0.0010 | Train Loss: 3.705 | Train Acc: 99.76 | Test Loss: 1.142 | Test Acc: 98.17 (98.36)
+Spent time per epoch : 7.0804sec
+cur train level:  2  cur train epoch: 48
+Epoch: 49/100 | LR: 0.0010 | Train Loss: 3.965 | Train Acc: 99.74 | Test Loss: 0.992 | Test Acc: 98.38 (98.38)
+Spent time per epoch : 7.1051sec
+cur train level:  2  cur train epoch: 49
+Epoch: 50/100 | LR: 0.0010 | Train Loss: 3.800 | Train Acc: 99.75 | Test Loss: 1.032 | Test Acc: 98.23 (98.38)
+Spent time per epoch : 6.9938sec
+cur train level:  2  cur train epoch: 50
+Epoch: 51/100 | LR: 0.0010 | Train Loss: 3.197 | Train Acc: 99.82 | Test Loss: 1.051 | Test Acc: 98.34 (98.38)
+Spent time per epoch : 6.9711sec
+cur train level:  2  cur train epoch: 51
+Epoch: 52/100 | LR: 0.0010 | Train Loss: 2.515 | Train Acc: 99.85 | Test Loss: 1.298 | Test Acc: 97.97 (98.38)
+Spent time per epoch : 7.1727sec
+cur train level:  2  cur train epoch: 52
+Epoch: 53/100 | LR: 0.0010 | Train Loss: 3.828 | Train Acc: 99.76 | Test Loss: 1.113 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 6.8964sec
+cur train level:  2  cur train epoch: 53
+Epoch: 54/100 | LR: 0.0010 | Train Loss: 3.434 | Train Acc: 99.81 | Test Loss: 1.079 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 6.8807sec
+cur train level:  2  cur train epoch: 54
+Epoch: 55/100 | LR: 0.0010 | Train Loss: 2.754 | Train Acc: 99.83 | Test Loss: 1.064 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 6.8602sec
+cur train level:  2  cur train epoch: 55
+Epoch: 56/100 | LR: 0.0010 | Train Loss: 3.473 | Train Acc: 99.79 | Test Loss: 1.115 | Test Acc: 98.19 (98.38)
+Spent time per epoch : 6.9461sec
+cur train level:  2  cur train epoch: 56
+Epoch: 57/100 | LR: 0.0010 | Train Loss: 2.924 | Train Acc: 99.82 | Test Loss: 1.036 | Test Acc: 98.28 (98.38)
+Spent time per epoch : 7.0412sec
+cur train level:  2  cur train epoch: 57
+Epoch: 58/100 | LR: 0.0010 | Train Loss: 2.042 | Train Acc: 99.86 | Test Loss: 0.969 | Test Acc: 98.35 (98.38)
+Spent time per epoch : 7.0338sec
+cur train level:  2  cur train epoch: 58
+Epoch: 59/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.85 | Test Loss: 1.210 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 7.1974sec
+cur train level:  2  cur train epoch: 59
+Epoch: 60/100 | LR: 0.0010 | Train Loss: 3.636 | Train Acc: 99.79 | Test Loss: 1.318 | Test Acc: 98.11 (98.38)
+Spent time per epoch : 7.1330sec
+cur train level:  2  cur train epoch: 60
+Epoch: 61/100 | LR: 0.0010 | Train Loss: 3.420 | Train Acc: 99.79 | Test Loss: 1.083 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 7.1161sec
+cur train level:  2  cur train epoch: 61
+Epoch: 62/100 | LR: 0.0010 | Train Loss: 2.745 | Train Acc: 99.85 | Test Loss: 1.047 | Test Acc: 98.17 (98.38)
+Spent time per epoch : 7.0872sec
+cur train level:  2  cur train epoch: 62
+Epoch: 63/100 | LR: 0.0010 | Train Loss: 2.419 | Train Acc: 99.81 | Test Loss: 1.097 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 7.1469sec
+cur train level:  2  cur train epoch: 63
+Epoch: 64/100 | LR: 0.0010 | Train Loss: 3.234 | Train Acc: 99.80 | Test Loss: 1.152 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 7.1381sec
+cur train level:  2  cur train epoch: 64
+Epoch: 65/100 | LR: 0.0010 | Train Loss: 2.337 | Train Acc: 99.84 | Test Loss: 1.093 | Test Acc: 98.33 (98.38)
+Spent time per epoch : 7.1688sec
+cur train level:  2  cur train epoch: 65
+Epoch: 66/100 | LR: 0.0010 | Train Loss: 2.431 | Train Acc: 99.85 | Test Loss: 1.078 | Test Acc: 98.31 (98.38)
+Spent time per epoch : 7.0670sec
+cur train level:  2  cur train epoch: 66
+Epoch: 67/100 | LR: 0.0010 | Train Loss: 2.414 | Train Acc: 99.85 | Test Loss: 1.010 | Test Acc: 98.42 (98.42)
+Spent time per epoch : 7.0487sec
+cur train level:  2  cur train epoch: 67
+Epoch: 68/100 | LR: 0.0010 | Train Loss: 2.133 | Train Acc: 99.88 | Test Loss: 1.139 | Test Acc: 98.23 (98.42)
+Spent time per epoch : 7.1272sec
+cur train level:  2  cur train epoch: 68
+Epoch: 69/100 | LR: 0.0010 | Train Loss: 2.272 | Train Acc: 99.85 | Test Loss: 1.226 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 7.1341sec
+cur train level:  2  cur train epoch: 69
+Epoch: 70/100 | LR: 0.0010 | Train Loss: 2.878 | Train Acc: 99.84 | Test Loss: 1.168 | Test Acc: 98.25 (98.42)
+Spent time per epoch : 7.1852sec
+cur train level:  2  cur train epoch: 70
+Epoch: 71/100 | LR: 0.0010 | Train Loss: 1.816 | Train Acc: 99.88 | Test Loss: 1.192 | Test Acc: 98.28 (98.42)
+Spent time per epoch : 7.0824sec
+cur train level:  2  cur train epoch: 71
+Epoch: 72/100 | LR: 0.0010 | Train Loss: 2.708 | Train Acc: 99.85 | Test Loss: 1.252 | Test Acc: 98.11 (98.42)
+Spent time per epoch : 7.0769sec
+cur train level:  2  cur train epoch: 72
+Epoch: 73/100 | LR: 0.0010 | Train Loss: 1.686 | Train Acc: 99.88 | Test Loss: 1.102 | Test Acc: 98.41 (98.42)
+Spent time per epoch : 7.0977sec
+cur train level:  2  cur train epoch: 73
+Epoch: 74/100 | LR: 0.0010 | Train Loss: 2.597 | Train Acc: 99.86 | Test Loss: 1.210 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 7.0943sec
+cur train level:  2  cur train epoch: 74
+Epoch: 75/100 | LR: 0.0010 | Train Loss: 2.390 | Train Acc: 99.85 | Test Loss: 1.011 | Test Acc: 98.38 (98.42)
+Spent time per epoch : 7.1788sec
+cur train level:  2  cur train epoch: 75
+Epoch: 76/100 | LR: 0.0010 | Train Loss: 1.619 | Train Acc: 99.89 | Test Loss: 1.041 | Test Acc: 98.46 (98.46)
+Spent time per epoch : 7.1119sec
+cur train level:  2  cur train epoch: 76
+Epoch: 77/100 | LR: 0.0010 | Train Loss: 2.829 | Train Acc: 99.83 | Test Loss: 1.157 | Test Acc: 98.19 (98.46)
+Spent time per epoch : 7.2049sec
+cur train level:  2  cur train epoch: 77
+Epoch: 78/100 | LR: 0.0010 | Train Loss: 1.516 | Train Acc: 99.91 | Test Loss: 1.038 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 7.2183sec
+cur train level:  2  cur train epoch: 78
+Epoch: 79/100 | LR: 0.0010 | Train Loss: 1.530 | Train Acc: 99.92 | Test Loss: 1.028 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 7.1669sec
+cur train level:  2  cur train epoch: 79
+Epoch: 80/100 | LR: 0.0010 | Train Loss: 2.509 | Train Acc: 99.83 | Test Loss: 1.252 | Test Acc: 98.21 (98.46)
+Spent time per epoch : 7.1404sec
+cur train level:  2  cur train epoch: 80
+Epoch: 81/100 | LR: 0.0010 | Train Loss: 2.047 | Train Acc: 99.89 | Test Loss: 1.125 | Test Acc: 98.29 (98.46)
+Spent time per epoch : 7.1471sec
+cur train level:  2  cur train epoch: 81
+Epoch: 82/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.86 | Test Loss: 1.086 | Test Acc: 98.33 (98.46)
+Spent time per epoch : 7.2147sec
+cur train level:  2  cur train epoch: 82
+Epoch: 83/100 | LR: 0.0010 | Train Loss: 2.188 | Train Acc: 99.87 | Test Loss: 1.021 | Test Acc: 98.39 (98.46)
+Spent time per epoch : 7.2166sec
+cur train level:  2  cur train epoch: 83
+Epoch: 84/100 | LR: 0.0010 | Train Loss: 1.536 | Train Acc: 99.91 | Test Loss: 0.990 | Test Acc: 98.41 (98.46)
+Spent time per epoch : 7.0701sec
+cur train level:  2  cur train epoch: 84
+Epoch: 85/100 | LR: 0.0010 | Train Loss: 0.576 | Train Acc: 99.97 | Test Loss: 1.019 | Test Acc: 98.47 (98.47)
+Spent time per epoch : 7.1020sec
+cur train level:  2  cur train epoch: 85
+Epoch: 86/100 | LR: 0.0010 | Train Loss: 2.849 | Train Acc: 99.86 | Test Loss: 0.974 | Test Acc: 98.29 (98.47)
+Spent time per epoch : 7.0739sec
+cur train level:  2  cur train epoch: 86
+Epoch: 87/100 | LR: 0.0010 | Train Loss: 1.558 | Train Acc: 99.89 | Test Loss: 1.099 | Test Acc: 98.24 (98.47)
+Spent time per epoch : 7.0187sec
+cur train level:  2  cur train epoch: 87
+Epoch: 88/100 | LR: 0.0010 | Train Loss: 2.560 | Train Acc: 99.84 | Test Loss: 1.121 | Test Acc: 98.17 (98.47)
+Spent time per epoch : 7.0346sec
+cur train level:  2  cur train epoch: 88
+Epoch: 89/100 | LR: 0.0010 | Train Loss: 2.610 | Train Acc: 99.85 | Test Loss: 1.029 | Test Acc: 98.41 (98.47)
+Spent time per epoch : 7.0078sec
+cur train level:  2  cur train epoch: 89
+Epoch: 90/100 | LR: 0.0010 | Train Loss: 1.454 | Train Acc: 99.89 | Test Loss: 1.076 | Test Acc: 98.27 (98.47)
+Spent time per epoch : 7.1221sec
+cur train level:  2  cur train epoch: 90
+Epoch: 91/100 | LR: 0.0010 | Train Loss: 1.365 | Train Acc: 99.92 | Test Loss: 1.016 | Test Acc: 98.39 (98.47)
+Spent time per epoch : 7.1124sec
+cur train level:  2  cur train epoch: 91
+Epoch: 92/100 | LR: 0.0010 | Train Loss: 1.684 | Train Acc: 99.90 | Test Loss: 1.014 | Test Acc: 98.35 (98.47)
+Spent time per epoch : 6.9829sec
+cur train level:  2  cur train epoch: 92
+Epoch: 93/100 | LR: 0.0010 | Train Loss: 1.306 | Train Acc: 99.92 | Test Loss: 1.027 | Test Acc: 98.49 (98.49)
+Spent time per epoch : 7.1464sec
+cur train level:  2  cur train epoch: 93
+Epoch: 94/100 | LR: 0.0010 | Train Loss: 1.789 | Train Acc: 99.91 | Test Loss: 1.061 | Test Acc: 98.32 (98.49)
+Spent time per epoch : 7.1076sec
+cur train level:  2  cur train epoch: 94
+Epoch: 95/100 | LR: 0.0010 | Train Loss: 1.754 | Train Acc: 99.87 | Test Loss: 1.147 | Test Acc: 98.38 (98.49)
+Spent time per epoch : 7.0005sec
+cur train level:  2  cur train epoch: 95
+Epoch: 96/100 | LR: 0.0010 | Train Loss: 1.822 | Train Acc: 99.90 | Test Loss: 1.136 | Test Acc: 98.28 (98.49)
+Spent time per epoch : 7.0441sec
+cur train level:  2  cur train epoch: 96
+Epoch: 97/100 | LR: 0.0010 | Train Loss: 2.075 | Train Acc: 99.88 | Test Loss: 1.009 | Test Acc: 98.39 (98.49)
+Spent time per epoch : 7.1386sec
+cur train level:  2  cur train epoch: 97
+Epoch: 98/100 | LR: 0.0010 | Train Loss: 1.047 | Train Acc: 99.93 | Test Loss: 1.094 | Test Acc: 98.31 (98.49)
+Spent time per epoch : 7.3587sec
+cur train level:  2  cur train epoch: 98
+Epoch: 99/100 | LR: 0.0010 | Train Loss: 1.884 | Train Acc: 99.88 | Test Loss: 1.176 | Test Acc: 98.29 (98.49)
+Spent time per epoch : 7.5169sec
+cur train level:  2  cur train epoch: 99
+Epoch: 100/100 | LR: 0.0010 | Train Loss: 2.197 | Train Acc: 99.88 | Test Loss: 1.046 | Test Acc: 98.33 (98.49)
+Spent time per epoch : 7.2105sec
+---------------------------- TRAINING DONE ------------------------------
+--------------------------- best_acc = 98.49 ----------------------------
+---------------------------- Time : 710.8sec -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --epochs 100 --learning-rate 0.001 --train-or-eval train --save 6_7_1_5
+cur train level:  2  cur train epoch: 0
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+Epoch: 1/100 | LR: 0.0010 | Train Loss: 128.420 | Train Acc: 92.10 | Test Loss: 1.730 | Test Acc: 96.00 (96.00)
+Spent time per epoch : 6.3428sec
+cur train level:  2  cur train epoch: 1
+Epoch: 2/100 | LR: 0.0010 | Train Loss: 69.223 | Train Acc: 95.72 | Test Loss: 1.457 | Test Acc: 96.57 (96.57)
+Spent time per epoch : 7.0632sec
+cur train level:  2  cur train epoch: 2
+Epoch: 3/100 | LR: 0.0010 | Train Loss: 50.913 | Train Acc: 96.81 | Test Loss: 1.424 | Test Acc: 96.74 (96.74)
+Spent time per epoch : 7.0458sec
+cur train level:  2  cur train epoch: 3
+Epoch: 4/100 | LR: 0.0010 | Train Loss: 41.812 | Train Acc: 97.38 | Test Loss: 1.411 | Test Acc: 96.71 (96.74)
+Spent time per epoch : 7.1118sec
+cur train level:  2  cur train epoch: 4
+Epoch: 5/100 | LR: 0.0010 | Train Loss: 34.446 | Train Acc: 97.80 | Test Loss: 1.100 | Test Acc: 97.32 (97.32)
+Spent time per epoch : 7.0473sec
+cur train level:  2  cur train epoch: 5
+Epoch: 6/100 | LR: 0.0010 | Train Loss: 31.113 | Train Acc: 97.99 | Test Loss: 0.927 | Test Acc: 97.73 (97.73)
+Spent time per epoch : 6.9955sec
+cur train level:  2  cur train epoch: 6
+Epoch: 7/100 | LR: 0.0010 | Train Loss: 27.426 | Train Acc: 98.24 | Test Loss: 0.981 | Test Acc: 97.67 (97.73)
+Spent time per epoch : 7.0184sec
+cur train level:  2  cur train epoch: 7
+Epoch: 8/100 | LR: 0.0010 | Train Loss: 24.007 | Train Acc: 98.40 | Test Loss: 1.348 | Test Acc: 96.90 (97.73)
+Spent time per epoch : 7.0064sec
+cur train level:  2  cur train epoch: 8
+Epoch: 9/100 | LR: 0.0010 | Train Loss: 21.468 | Train Acc: 98.62 | Test Loss: 0.988 | Test Acc: 97.86 (97.86)
+Spent time per epoch : 7.0920sec
+cur train level:  2  cur train epoch: 9
+Epoch: 10/100 | LR: 0.0010 | Train Loss: 20.269 | Train Acc: 98.66 | Test Loss: 1.125 | Test Acc: 97.37 (97.86)
+Spent time per epoch : 7.1106sec
+cur train level:  2  cur train epoch: 10
+Epoch: 11/100 | LR: 0.0010 | Train Loss: 16.458 | Train Acc: 98.93 | Test Loss: 1.114 | Test Acc: 97.69 (97.86)
+Spent time per epoch : 7.1202sec
+cur train level:  2  cur train epoch: 11
+Epoch: 12/100 | LR: 0.0010 | Train Loss: 17.388 | Train Acc: 98.90 | Test Loss: 1.173 | Test Acc: 97.44 (97.86)
+Spent time per epoch : 7.1223sec
+cur train level:  2  cur train epoch: 12
+Epoch: 13/100 | LR: 0.0010 | Train Loss: 17.081 | Train Acc: 98.86 | Test Loss: 1.046 | Test Acc: 97.77 (97.86)
+Spent time per epoch : 7.1118sec
+cur train level:  2  cur train epoch: 13
+Epoch: 14/100 | LR: 0.0010 | Train Loss: 14.296 | Train Acc: 99.11 | Test Loss: 1.071 | Test Acc: 97.78 (97.86)
+Spent time per epoch : 7.5780sec
+cur train level:  2  cur train epoch: 14
+Epoch: 15/100 | LR: 0.0010 | Train Loss: 12.739 | Train Acc: 99.14 | Test Loss: 1.307 | Test Acc: 97.33 (97.86)
+Spent time per epoch : 7.6353sec
+cur train level:  2  cur train epoch: 15
+Epoch: 16/100 | LR: 0.0010 | Train Loss: 12.319 | Train Acc: 99.19 | Test Loss: 1.262 | Test Acc: 97.58 (97.86)
+Spent time per epoch : 7.9113sec
+cur train level:  2  cur train epoch: 16
+Epoch: 17/100 | LR: 0.0010 | Train Loss: 12.242 | Train Acc: 99.21 | Test Loss: 0.973 | Test Acc: 98.08 (98.08)
+Spent time per epoch : 7.1910sec
+cur train level:  2  cur train epoch: 17
+Epoch: 18/100 | LR: 0.0010 | Train Loss: 10.544 | Train Acc: 99.32 | Test Loss: 1.098 | Test Acc: 98.04 (98.08)
+Spent time per epoch : 7.0734sec
+cur train level:  2  cur train epoch: 18
+Epoch: 19/100 | LR: 0.0010 | Train Loss: 11.033 | Train Acc: 99.28 | Test Loss: 1.045 | Test Acc: 97.88 (98.08)
+Spent time per epoch : 7.0941sec
+cur train level:  2  cur train epoch: 19
+Epoch: 20/100 | LR: 0.0010 | Train Loss: 8.978 | Train Acc: 99.39 | Test Loss: 0.988 | Test Acc: 97.97 (98.08)
+Spent time per epoch : 7.1863sec
+cur train level:  2  cur train epoch: 20
+Epoch: 21/100 | LR: 0.0010 | Train Loss: 10.658 | Train Acc: 99.34 | Test Loss: 1.168 | Test Acc: 97.87 (98.08)
+Spent time per epoch : 7.1799sec
+cur train level:  2  cur train epoch: 21
+Epoch: 22/100 | LR: 0.0010 | Train Loss: 9.316 | Train Acc: 99.39 | Test Loss: 1.163 | Test Acc: 97.91 (98.08)
+Spent time per epoch : 7.1195sec
+cur train level:  2  cur train epoch: 22
+Epoch: 23/100 | LR: 0.0010 | Train Loss: 8.011 | Train Acc: 99.45 | Test Loss: 0.938 | Test Acc: 98.22 (98.22)
+Spent time per epoch : 7.0933sec
+cur train level:  2  cur train epoch: 23
+Epoch: 24/100 | LR: 0.0010 | Train Loss: 8.913 | Train Acc: 99.41 | Test Loss: 1.000 | Test Acc: 98.13 (98.22)
+Spent time per epoch : 6.9321sec
+cur train level:  2  cur train epoch: 24
+Epoch: 25/100 | LR: 0.0010 | Train Loss: 7.117 | Train Acc: 99.54 | Test Loss: 1.169 | Test Acc: 97.90 (98.22)
+Spent time per epoch : 6.9564sec
+cur train level:  2  cur train epoch: 25
+Epoch: 26/100 | LR: 0.0010 | Train Loss: 7.074 | Train Acc: 99.60 | Test Loss: 1.194 | Test Acc: 97.97 (98.22)
+Spent time per epoch : 7.0865sec
+cur train level:  2  cur train epoch: 26
+Epoch: 27/100 | LR: 0.0010 | Train Loss: 8.401 | Train Acc: 99.43 | Test Loss: 1.029 | Test Acc: 98.01 (98.22)
+Spent time per epoch : 6.8701sec
+cur train level:  2  cur train epoch: 27
+Epoch: 28/100 | LR: 0.0010 | Train Loss: 6.740 | Train Acc: 99.57 | Test Loss: 1.016 | Test Acc: 98.09 (98.22)
+Spent time per epoch : 6.8710sec
+cur train level:  2  cur train epoch: 28
+Epoch: 29/100 | LR: 0.0010 | Train Loss: 6.140 | Train Acc: 99.61 | Test Loss: 1.101 | Test Acc: 98.21 (98.22)
+Spent time per epoch : 6.9915sec
+cur train level:  2  cur train epoch: 29
+Epoch: 30/100 | LR: 0.0010 | Train Loss: 7.047 | Train Acc: 99.53 | Test Loss: 1.127 | Test Acc: 97.95 (98.22)
+Spent time per epoch : 7.0320sec
+cur train level:  2  cur train epoch: 30
+Epoch: 31/100 | LR: 0.0010 | Train Loss: 5.303 | Train Acc: 99.62 | Test Loss: 1.179 | Test Acc: 98.06 (98.22)
+Spent time per epoch : 7.0373sec
+cur train level:  2  cur train epoch: 31
+Epoch: 32/100 | LR: 0.0010 | Train Loss: 5.469 | Train Acc: 99.62 | Test Loss: 1.131 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 7.0524sec
+cur train level:  2  cur train epoch: 32
+Epoch: 33/100 | LR: 0.0010 | Train Loss: 4.234 | Train Acc: 99.75 | Test Loss: 1.177 | Test Acc: 98.07 (98.22)
+Spent time per epoch : 6.9899sec
+cur train level:  2  cur train epoch: 33
+Epoch: 34/100 | LR: 0.0010 | Train Loss: 5.784 | Train Acc: 99.62 | Test Loss: 1.093 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 6.9001sec
+cur train level:  2  cur train epoch: 34
+Epoch: 35/100 | LR: 0.0010 | Train Loss: 4.415 | Train Acc: 99.70 | Test Loss: 1.312 | Test Acc: 97.66 (98.22)
+Spent time per epoch : 6.9072sec
+cur train level:  2  cur train epoch: 35
+Epoch: 36/100 | LR: 0.0010 | Train Loss: 6.679 | Train Acc: 99.58 | Test Loss: 1.130 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 6.7643sec
+cur train level:  2  cur train epoch: 36
+Epoch: 37/100 | LR: 0.0010 | Train Loss: 4.273 | Train Acc: 99.74 | Test Loss: 1.139 | Test Acc: 98.08 (98.22)
+Spent time per epoch : 6.9144sec
+cur train level:  2  cur train epoch: 37
+Epoch: 38/100 | LR: 0.0010 | Train Loss: 5.543 | Train Acc: 99.63 | Test Loss: 1.087 | Test Acc: 98.11 (98.22)
+Spent time per epoch : 6.9308sec
+cur train level:  2  cur train epoch: 38
+Epoch: 39/100 | LR: 0.0010 | Train Loss: 3.819 | Train Acc: 99.75 | Test Loss: 1.114 | Test Acc: 98.25 (98.25)
+Spent time per epoch : 6.9581sec
+cur train level:  2  cur train epoch: 39
+Epoch: 40/100 | LR: 0.0010 | Train Loss: 5.470 | Train Acc: 99.66 | Test Loss: 1.009 | Test Acc: 98.22 (98.25)
+Spent time per epoch : 6.8359sec
+cur train level:  2  cur train epoch: 40
+Epoch: 41/100 | LR: 0.0010 | Train Loss: 5.316 | Train Acc: 99.66 | Test Loss: 1.203 | Test Acc: 98.08 (98.25)
+Spent time per epoch : 6.8616sec
+cur train level:  2  cur train epoch: 41
+Epoch: 42/100 | LR: 0.0010 | Train Loss: 3.506 | Train Acc: 99.78 | Test Loss: 1.029 | Test Acc: 98.19 (98.25)
+Spent time per epoch : 6.8499sec
+cur train level:  2  cur train epoch: 42
+Epoch: 43/100 | LR: 0.0010 | Train Loss: 4.321 | Train Acc: 99.73 | Test Loss: 1.110 | Test Acc: 98.17 (98.25)
+Spent time per epoch : 6.8409sec
+cur train level:  2  cur train epoch: 43
+Epoch: 44/100 | LR: 0.0010 | Train Loss: 4.275 | Train Acc: 99.73 | Test Loss: 1.204 | Test Acc: 98.04 (98.25)
+Spent time per epoch : 6.8981sec
+cur train level:  2  cur train epoch: 44
+Epoch: 45/100 | LR: 0.0010 | Train Loss: 4.162 | Train Acc: 99.74 | Test Loss: 1.161 | Test Acc: 98.12 (98.25)
+Spent time per epoch : 6.7545sec
+cur train level:  2  cur train epoch: 45
+Epoch: 46/100 | LR: 0.0010 | Train Loss: 3.593 | Train Acc: 99.77 | Test Loss: 1.046 | Test Acc: 98.36 (98.36)
+Spent time per epoch : 7.0327sec
+cur train level:  2  cur train epoch: 46
+Epoch: 47/100 | LR: 0.0010 | Train Loss: 3.429 | Train Acc: 99.78 | Test Loss: 1.074 | Test Acc: 98.23 (98.36)
+Spent time per epoch : 6.7355sec
+cur train level:  2  cur train epoch: 47
+Epoch: 48/100 | LR: 0.0010 | Train Loss: 3.705 | Train Acc: 99.76 | Test Loss: 1.142 | Test Acc: 98.17 (98.36)
+Spent time per epoch : 7.0911sec
+cur train level:  2  cur train epoch: 48
+Epoch: 49/100 | LR: 0.0010 | Train Loss: 3.965 | Train Acc: 99.74 | Test Loss: 0.992 | Test Acc: 98.38 (98.38)
+Spent time per epoch : 7.0020sec
+cur train level:  2  cur train epoch: 49
+Epoch: 50/100 | LR: 0.0010 | Train Loss: 3.800 | Train Acc: 99.75 | Test Loss: 1.032 | Test Acc: 98.23 (98.38)
+Spent time per epoch : 7.0955sec
+cur train level:  2  cur train epoch: 50
+Epoch: 51/100 | LR: 0.0010 | Train Loss: 3.197 | Train Acc: 99.82 | Test Loss: 1.051 | Test Acc: 98.34 (98.38)
+Spent time per epoch : 6.9950sec
+cur train level:  2  cur train epoch: 51
+Epoch: 52/100 | LR: 0.0010 | Train Loss: 2.515 | Train Acc: 99.85 | Test Loss: 1.298 | Test Acc: 97.97 (98.38)
+Spent time per epoch : 6.9372sec
+cur train level:  2  cur train epoch: 52
+Epoch: 53/100 | LR: 0.0010 | Train Loss: 3.828 | Train Acc: 99.76 | Test Loss: 1.113 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 6.8259sec
+cur train level:  2  cur train epoch: 53
+Epoch: 54/100 | LR: 0.0010 | Train Loss: 3.434 | Train Acc: 99.81 | Test Loss: 1.079 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 7.0663sec
+cur train level:  2  cur train epoch: 54
+Epoch: 55/100 | LR: 0.0010 | Train Loss: 2.754 | Train Acc: 99.83 | Test Loss: 1.064 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 7.0020sec
+cur train level:  2  cur train epoch: 55
+Epoch: 56/100 | LR: 0.0010 | Train Loss: 3.473 | Train Acc: 99.79 | Test Loss: 1.115 | Test Acc: 98.19 (98.38)
+Spent time per epoch : 6.9743sec
+cur train level:  2  cur train epoch: 56
+Epoch: 57/100 | LR: 0.0010 | Train Loss: 2.924 | Train Acc: 99.82 | Test Loss: 1.036 | Test Acc: 98.28 (98.38)
+Spent time per epoch : 6.8478sec
+cur train level:  2  cur train epoch: 57
+Epoch: 58/100 | LR: 0.0010 | Train Loss: 2.042 | Train Acc: 99.86 | Test Loss: 0.969 | Test Acc: 98.35 (98.38)
+Spent time per epoch : 6.9121sec
+cur train level:  2  cur train epoch: 58
+Epoch: 59/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.85 | Test Loss: 1.210 | Test Acc: 98.18 (98.38)
+Spent time per epoch : 6.8909sec
+cur train level:  2  cur train epoch: 59
+Epoch: 60/100 | LR: 0.0010 | Train Loss: 3.636 | Train Acc: 99.79 | Test Loss: 1.318 | Test Acc: 98.11 (98.38)
+Spent time per epoch : 6.7591sec
+cur train level:  2  cur train epoch: 60
+Epoch: 61/100 | LR: 0.0010 | Train Loss: 3.420 | Train Acc: 99.79 | Test Loss: 1.083 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 6.9086sec
+cur train level:  2  cur train epoch: 61
+Epoch: 62/100 | LR: 0.0010 | Train Loss: 2.745 | Train Acc: 99.85 | Test Loss: 1.047 | Test Acc: 98.17 (98.38)
+Spent time per epoch : 6.8396sec
+cur train level:  2  cur train epoch: 62
+Epoch: 63/100 | LR: 0.0010 | Train Loss: 2.419 | Train Acc: 99.81 | Test Loss: 1.097 | Test Acc: 98.32 (98.38)
+Spent time per epoch : 6.8657sec
+cur train level:  2  cur train epoch: 63
+Epoch: 64/100 | LR: 0.0010 | Train Loss: 3.234 | Train Acc: 99.80 | Test Loss: 1.152 | Test Acc: 98.22 (98.38)
+Spent time per epoch : 6.8082sec
+cur train level:  2  cur train epoch: 64
+Epoch: 65/100 | LR: 0.0010 | Train Loss: 2.337 | Train Acc: 99.84 | Test Loss: 1.093 | Test Acc: 98.33 (98.38)
+Spent time per epoch : 6.7277sec
+cur train level:  2  cur train epoch: 65
+Epoch: 66/100 | LR: 0.0010 | Train Loss: 2.431 | Train Acc: 99.85 | Test Loss: 1.078 | Test Acc: 98.31 (98.38)
+Spent time per epoch : 6.8336sec
+cur train level:  2  cur train epoch: 66
+Epoch: 67/100 | LR: 0.0010 | Train Loss: 2.414 | Train Acc: 99.85 | Test Loss: 1.010 | Test Acc: 98.42 (98.42)
+Spent time per epoch : 6.9687sec
+cur train level:  2  cur train epoch: 67
+Epoch: 68/100 | LR: 0.0010 | Train Loss: 2.133 | Train Acc: 99.88 | Test Loss: 1.139 | Test Acc: 98.23 (98.42)
+Spent time per epoch : 6.8603sec
+cur train level:  2  cur train epoch: 68
+Epoch: 69/100 | LR: 0.0010 | Train Loss: 2.272 | Train Acc: 99.85 | Test Loss: 1.226 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 6.8087sec
+cur train level:  2  cur train epoch: 69
+Epoch: 70/100 | LR: 0.0010 | Train Loss: 2.878 | Train Acc: 99.84 | Test Loss: 1.168 | Test Acc: 98.25 (98.42)
+Spent time per epoch : 6.8479sec
+cur train level:  2  cur train epoch: 70
+Epoch: 71/100 | LR: 0.0010 | Train Loss: 1.816 | Train Acc: 99.88 | Test Loss: 1.192 | Test Acc: 98.28 (98.42)
+Spent time per epoch : 6.8314sec
+cur train level:  2  cur train epoch: 71
+Epoch: 72/100 | LR: 0.0010 | Train Loss: 2.708 | Train Acc: 99.85 | Test Loss: 1.252 | Test Acc: 98.11 (98.42)
+Spent time per epoch : 6.8303sec
+cur train level:  2  cur train epoch: 72
+Epoch: 73/100 | LR: 0.0010 | Train Loss: 1.686 | Train Acc: 99.88 | Test Loss: 1.102 | Test Acc: 98.41 (98.42)
+Spent time per epoch : 7.0462sec
+cur train level:  2  cur train epoch: 73
+Epoch: 74/100 | LR: 0.0010 | Train Loss: 2.597 | Train Acc: 99.86 | Test Loss: 1.210 | Test Acc: 98.16 (98.42)
+Spent time per epoch : 6.9461sec
+cur train level:  2  cur train epoch: 74
+Epoch: 75/100 | LR: 0.0010 | Train Loss: 2.390 | Train Acc: 99.85 | Test Loss: 1.011 | Test Acc: 98.38 (98.42)
+Spent time per epoch : 6.9539sec
+cur train level:  2  cur train epoch: 75
+Epoch: 76/100 | LR: 0.0010 | Train Loss: 1.619 | Train Acc: 99.89 | Test Loss: 1.041 | Test Acc: 98.46 (98.46)
+Spent time per epoch : 6.9373sec
+cur train level:  2  cur train epoch: 76
+Epoch: 77/100 | LR: 0.0010 | Train Loss: 2.829 | Train Acc: 99.83 | Test Loss: 1.157 | Test Acc: 98.19 (98.46)
+Spent time per epoch : 6.8650sec
+cur train level:  2  cur train epoch: 77
+Epoch: 78/100 | LR: 0.0010 | Train Loss: 1.516 | Train Acc: 99.91 | Test Loss: 1.038 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 6.8656sec
+cur train level:  2  cur train epoch: 78
+Epoch: 79/100 | LR: 0.0010 | Train Loss: 1.530 | Train Acc: 99.92 | Test Loss: 1.028 | Test Acc: 98.45 (98.46)
+Spent time per epoch : 6.7531sec
+cur train level:  2  cur train epoch: 79
+Epoch: 80/100 | LR: 0.0010 | Train Loss: 2.509 | Train Acc: 99.83 | Test Loss: 1.252 | Test Acc: 98.21 (98.46)
+Spent time per epoch : 6.9381sec
+cur train level:  2  cur train epoch: 80
+Epoch: 81/100 | LR: 0.0010 | Train Loss: 2.047 | Train Acc: 99.89 | Test Loss: 1.125 | Test Acc: 98.29 (98.46)
+Spent time per epoch : 7.0600sec
+cur train level:  2  cur train epoch: 81
+Epoch: 82/100 | LR: 0.0010 | Train Loss: 2.309 | Train Acc: 99.86 | Test Loss: 1.086 | Test Acc: 98.33 (98.46)
+Spent time per epoch : 7.1419sec
+cur train level:  2  cur train epoch: 82
+Epoch: 83/100 | LR: 0.0010 | Train Loss: 2.188 | Train Acc: 99.87 | Test Loss: 1.021 | Test Acc: 98.39 (98.46)
+Spent time per epoch : 7.1112sec
+cur train level:  2  cur train epoch: 83
+Epoch: 84/100 | LR: 0.0010 | Train Loss: 1.536 | Train Acc: 99.91 | Test Loss: 0.990 | Test Acc: 98.41 (98.46)
+Spent time per epoch : 7.1619sec
+cur train level:  2  cur train epoch: 84
+Epoch: 85/100 | LR: 0.0010 | Train Loss: 0.576 | Train Acc: 99.97 | Test Loss: 1.019 | Test Acc: 98.47 (98.47)
+Spent time per epoch : 7.0381sec
+cur train level:  2  cur train epoch: 85
+Epoch: 86/100 | LR: 0.0010 | Train Loss: 2.849 | Train Acc: 99.86 | Test Loss: 0.974 | Test Acc: 98.29 (98.47)
+Spent time per epoch : 7.0573sec
+cur train level:  2  cur train epoch: 86
+Epoch: 87/100 | LR: 0.0010 | Train Loss: 1.558 | Train Acc: 99.89 | Test Loss: 1.099 | Test Acc: 98.24 (98.47)
+Spent time per epoch : 6.9666sec
+cur train level:  2  cur train epoch: 87
+Epoch: 88/100 | LR: 0.0010 | Train Loss: 2.560 | Train Acc: 99.84 | Test Loss: 1.121 | Test Acc: 98.17 (98.47)
+Spent time per epoch : 6.8215sec
+cur train level:  2  cur train epoch: 88
+Epoch: 89/100 | LR: 0.0010 | Train Loss: 2.610 | Train Acc: 99.85 | Test Loss: 1.029 | Test Acc: 98.41 (98.47)
+Spent time per epoch : 6.8801sec
+cur train level:  2  cur train epoch: 89
+Epoch: 90/100 | LR: 0.0010 | Train Loss: 1.454 | Train Acc: 99.89 | Test Loss: 1.076 | Test Acc: 98.27 (98.47)
+Spent time per epoch : 6.9039sec
+cur train level:  2  cur train epoch: 90
+Epoch: 91/100 | LR: 0.0010 | Train Loss: 1.365 | Train Acc: 99.92 | Test Loss: 1.016 | Test Acc: 98.39 (98.47)
+Spent time per epoch : 6.8173sec
+cur train level:  2  cur train epoch: 91
+Epoch: 92/100 | LR: 0.0010 | Train Loss: 1.684 | Train Acc: 99.90 | Test Loss: 1.014 | Test Acc: 98.35 (98.47)
+Spent time per epoch : 6.7982sec
+cur train level:  2  cur train epoch: 92
+Epoch: 93/100 | LR: 0.0010 | Train Loss: 1.306 | Train Acc: 99.92 | Test Loss: 1.027 | Test Acc: 98.49 (98.49)
+Spent time per epoch : 6.8863sec
+cur train level:  2  cur train epoch: 93
+Epoch: 94/100 | LR: 0.0010 | Train Loss: 1.789 | Train Acc: 99.91 | Test Loss: 1.061 | Test Acc: 98.32 (98.49)
+Spent time per epoch : 6.8533sec
+cur train level:  2  cur train epoch: 94
+Epoch: 95/100 | LR: 0.0010 | Train Loss: 1.754 | Train Acc: 99.87 | Test Loss: 1.147 | Test Acc: 98.38 (98.49)
+Spent time per epoch : 7.0065sec
+cur train level:  2  cur train epoch: 95
+Epoch: 96/100 | LR: 0.0010 | Train Loss: 1.822 | Train Acc: 99.90 | Test Loss: 1.136 | Test Acc: 98.28 (98.49)
+Spent time per epoch : 6.8272sec
+cur train level:  2  cur train epoch: 96
+Epoch: 97/100 | LR: 0.0010 | Train Loss: 2.075 | Train Acc: 99.88 | Test Loss: 1.009 | Test Acc: 98.39 (98.49)
+Spent time per epoch : 6.9133sec
+cur train level:  2  cur train epoch: 97
+Epoch: 98/100 | LR: 0.0010 | Train Loss: 1.047 | Train Acc: 99.93 | Test Loss: 1.094 | Test Acc: 98.31 (98.49)
+Spent time per epoch : 6.9642sec
+cur train level:  2  cur train epoch: 98
+Epoch: 99/100 | LR: 0.0010 | Train Loss: 1.884 | Train Acc: 99.88 | Test Loss: 1.176 | Test Acc: 98.29 (98.49)
+Spent time per epoch : 7.0784sec
+cur train level:  2  cur train epoch: 99
+Epoch: 100/100 | LR: 0.0010 | Train Loss: 2.197 | Train Acc: 99.88 | Test Loss: 1.046 | Test Acc: 98.33 (98.49)
+Spent time per epoch : 7.1003sec
+---------------------------- TRAINING DONE ------------------------------
+--------------------------- best_acc = 98.49 ----------------------------
+---------------------------- Time : 697.5sec -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --learning-rate 0.001 --train-or-eval eval --save 6_7_1_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.55 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --learning-rate 0.001 --train-or-eval eval --save 6_7_1_2
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.55 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --learning-rate 0.001 --train-or-eval eval --save 6_7_1_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.55 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --learning-rate 0.001 --train-or-eval eval --save 6_7_1_4
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.55 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --learning-rate 0.001 --train-or-eval eval --save 6_7_1_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.55 -----------------------------
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>

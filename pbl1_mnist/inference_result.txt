@@ -1,0 +1,134 @@
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 5 --hidden-layers 3 --learning-rate 0.005 --train-or-eval eval --save 5_3_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.31 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 5 --hidden-layers 5 --learning-rate 0.005 --train-or-eval eval --save 5_5_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.20 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 5 --hidden-layers 7 --learning-rate 0.005 --train-or-eval eval --save 5_7_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.43 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 5 --hidden-layers 3 --learning-rate 0.003 --train-or-eval eval --save 5_3_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.42 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 5 --hidden-layers 5 --learning-rate 0.003 --train-or-eval eval --save 5_5_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.49 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 5 --hidden-layers 7 --learning-rate 0.003 --train-or-eval eval --save 5_7_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.38 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 5 --hidden-layers 3 --learning-rate 0.001 --train-or-eval eval --save 5_3_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.40 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 5 --hidden-layers 5 --learning-rate 0.001 --train-or-eval eval --save 5_5_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.29 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 5 --hidden-layers 7 --learning-rate 0.001 --train-or-eval eval --save 5_7_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.48 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 3 --learning-rate 0.005 --train-or-eval eval --save 6_3_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.36 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 5 --learning-rate 0.005 --train-or-eval eval --save 6_5_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.18 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --learning-rate 0.005 --train-or-eval eval --save 6_7_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.34 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 3 --learning-rate 0.003 --train-or-eval eval --save 6_3_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.31 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 5 --learning-rate 0.003 --train-or-eval eval --save 6_5_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.33 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --learning-rate 0.003 --train-or-eval eval --save 6_7_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.32 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 3 --learning-rate 0.001 --train-or-eval eval --save 6_3_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.12 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 5 --learning-rate 0.001 --train-or-eval eval --save 6_5_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.21 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 6 --hidden-layers 7 --learning-rate 0.001 --train-or-eval eval --save 6_7_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.55 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 7 --hidden-layers 3 --learning-rate 0.005 --train-or-eval eval --save 7_3_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.51 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 7 --hidden-layers 5 --learning-rate 0.005 --train-or-eval eval --save 7_5_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.40 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 7 --hidden-layers 7 --learning-rate 0.005 --train-or-eval eval --save 7_7_5
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.22 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 7 --hidden-layers 3 --learning-rate 0.003 --train-or-eval eval --save 7_3_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.37 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 7 --hidden-layers 5 --learning-rate 0.003 --train-or-eval eval --save 7_5_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.27 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 7 --hidden-layers 7 --learning-rate 0.003 --train-or-eval eval --save 7_7_3
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.39 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 7 --hidden-layers 3 --learning-rate 0.001 --train-or-eval eval --save 7_3_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.38 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 7 --hidden-layers 5 --learning-rate 0.001 --train-or-eval eval --save 7_5_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.18 -----------------------------
+
+(Pytorch) C:\Users\USER\PycharmProjects\pythonProject\mlp mnist>python mnist_main.py --node-ratio 7 --hidden-layers 7 --learning-rate 0.001 --train-or-eval eval --save 7_7_1
+C:\Users\USER\anaconda3\envs\Pytorch\lib\site-packages\torch\nn\modules\module.py:1511: UserWarning: Implicit dimension choice for log_softmax has been deprecated. Change the call to include dim=X as an argument.
+  return self._call_impl(*args, **kwargs)
+--------------------------- Best Model Test Acc: 98.35 -----------------------------
